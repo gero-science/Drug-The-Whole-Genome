@@ -71,7 +71,7 @@ class BindingAffinityModel(BaseUnicoreModel):
             args.mol.encoder_embed_dim, 128, "relu"
         )
 
-        self.logit_scale = nn.Parameter(torch.ones([1], device="cuda") * np.log(14))
+        self.logit_scale = nn.Parameter(torch.ones([1]) * np.log(14))
         
 
         
