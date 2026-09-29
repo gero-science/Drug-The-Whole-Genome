@@ -1,0 +1,1045 @@
+target	uniprot_id	smiles	pActivity	chembl_pActivity	chembl_id	validation	is_dude_decoy	is_dude_active
+ADRB2	P07550	Cn1nc(C(=O)OCCCCNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)cc1COc1cccc([C@@H](NC(=O)O[C@H]2CN3CCC2CC3)c2ccccc2)c1	9.9830	11.4000	CHEMBL5172865	activity_mismatch	False	False
+ADRB2	P07550	CC(C)(CCc1cccc(Cl)c1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.9734		CHEMBL5028233	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)(CCc1ccccc1)NC[C@H](O)c1cc(O)cc2c1OCC(=O)N2	9.9621	10.4900	CHEMBL4638864	close	False	True
+ADRB2	P07550	CC(CCc1ccc(O)cc1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.9558		CHEMBL5028449	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)(Cc1ccc(Oc2ccc(C(N)=O)cn2)cc1)NC[C@H](O)COc1cccc2[nH]c3ccccc3c12	9.9508		CHEMBL2012520	no_activity_for_target	False	False
+ADRB2	P07550	O=C(N[C@@H](c1ccccc1)c1ccc(-c2cccc(OCc3ccc(C(=O)NCCCNC[C@H](O)c4ccc(O)c5[nH]c(=O)ccc45)cc3)c2)cc1)O[C@H]1CN2CCC1CC2	9.9485	10.9000	CHEMBL4871517	close	False	False
+ADRB2	P07550	CC(C)(CCc1ccc(Cl)cc1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.9485		CHEMBL5028726	no_activity_for_target	False	False
+ADRB2	P07550	Cc1cccc(CCC(C)NCC(O)c2ccc(O)c3[nH]c(=O)ccc23)c1	9.9474		CHEMBL5028871	no_activity_for_target	False	False
+ADRB2	P07550	CC(CCc1cccc(O)c1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.9450		CHEMBL5028458	no_activity_for_target	False	False
+ADRB2	P07550	COc1ccccc1CCC(C)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.9401		CHEMBL5028119	no_activity_for_target	False	False
+ADRB2	P07550	O=C(NC(c1ccccc1)c1cccc(OCCCCCCNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)c1)O[C@H]1CN2CCC1CC2	9.9361	9.3000	CHEMBL4847910	close	False	True
+ADRB2	P07550	CC(C)(CCc1cccc(O)c1)NC[C@H](O)c1cc(O)cc2c1OCC(=O)N2	9.9347		CHEMBL4651173	no_activity_for_target	False	False
+ADRB2	P07550	Cc1ccc(CCC(C)(C)NCC(O)c2ccc(O)c3[nH]c(=O)ccc23)cc1	9.9333		CHEMBL5028744	no_activity_for_target	False	False
+ADRB2	P07550	Cc1ccccc1CCC(C)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.9304		CHEMBL5028489	no_activity_for_target	False	False
+ADRB2	P07550	Cc1ccccc1CCC(C)(C)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.9289		CHEMBL5028319	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)(CCc1ccc(Cl)cc1)NC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12	9.9289		CHEMBL5028726	no_activity_for_target	False	False
+ADRB2	P07550	COc1ccc(CCC(C)NCC(O)c2ccc(O)c3[nH]c(=O)ccc23)cc1	9.9274		CHEMBL5028117	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)(CCc1ccccc1Cl)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.9274		CHEMBL5028525	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)(CCc1cccc(O)c1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.9274		CHEMBL5028104	no_activity_for_target	False	False
+ADRB2	P07550	Cc1cccc(CCC(C)(C)NCC(O)c2ccc(O)c3[nH]c(=O)ccc23)c1	9.9226		CHEMBL5028040	no_activity_for_target	False	False
+ADRB2	P07550	O=C(N[C@@H](c1ccccc1)c1cccc(OCc2ccc(C(=O)OCCCCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)c1)O[C@H]1CN2CCC1CC2	9.9210	10.7000	CHEMBL5184455	close	False	True
+ADRB2	P07550	CC(C)(Cc1cccc(CC(=O)NCc2ccccc2)c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.9208	10.7000	CHEMBL230486	close	False	True
+ADRB2	P07550	COc1ccccc1CNC(=O)c1cc2cc(C[C@@H](C)NC[C@H](O)c3ccc(O)c(CO)c3)ccc2[nH]1	9.9208	10.7000	CHEMBL236039	close	False	True
+ADRB2	P07550	CC(C)(Cc1cccc(CC(=O)NCc2ccc(O)cc2Cl)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.9208	10.7000	CHEMBL1242943	close	False	True
+ADRB2	P07550	COc1ccc(CC(C)(C)NC[C@H](O)c2cc(O)cc3c2OCC(=O)N3)cc1	9.9208	8.8500	CHEMBL603271	activity_mismatch	False	True
+ADRB2	P07550	CC(C)(CCc1ccccc1)NC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12	9.9174	10.6800	CHEMBL4445289	close	False	True
+ADRB2	P07550	O=c1ccc2c(C(O)CNCCCc3cc(F)cc(F)c3)ccc(O)c2[nH]1	9.9159		CHEMBL5028793	no_activity_for_target	False	False
+ADRB2	P07550	COc1cccc(CCC(C)NCC(O)c2ccc(O)c3[nH]c(=O)ccc23)c1	9.9159		CHEMBL5028641	no_activity_for_target	False	False
+ADRB2	P07550	C[C@H](Cc1ccc2[nH]c(C(=O)N(C)Cc3ccccc3)cc2c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.9136	10.6600	CHEMBL236041	close	False	True
+ADRB2	P07550	CC(C)(CCc1cccc(Cl)c1)NC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12	9.9123		CHEMBL5028233	no_activity_for_target	False	False
+ADRB2	P07550	COc1ccccc1CCC(C)(C)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.9123		CHEMBL5028301	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)(Cc1cccc(CC(=O)NCc2ccccc2)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.9101	10.6400	CHEMBL1243189	close	False	True
+ADRB2	P07550	CC(CCc1cccc(F)c1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.9085		CHEMBL5028836	no_activity_for_target	False	False
+ADRB2	P07550	COc1ccccc1CCC(C)(C)NC[C@H](O)c1cc(O)cc2c1OCC(=O)N2	9.9066		CHEMBL4650951	no_activity_for_target	False	False
+ADRB2	P07550	O=c1ccc2c(C(O)CNCCCc3cccc(F)c3)ccc(O)c2[nH]1	9.9047		CHEMBL5027923	no_activity_for_target	False	False
+ADRB2	P07550	COc1cc(C(=O)OCCCCNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)ccc1COc1cccc([C@@H](NC(=O)O[C@H]2CN3CCC2CC3)c2ccccc2)c1	9.9027	10.6000	CHEMBL5200887	close	False	False
+ADRB2	P07550	O=C(N[C@@H](c1ccccc1)c1cccc(OCc2ccc(C(=O)OCCCCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)o2)c1)O[C@H]1CN2CCC1CC2	9.9027	10.6000	CHEMBL5190387	close	False	False
+ADRB2	P07550	O=C(N[C@@H](c1ccccc1)c1cccc(OCc2cccc(C(=O)OCCCCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)c2)c1)O[C@H]1CN2CCC1CC2	9.9027	10.6000	CHEMBL5193853	close	False	False
+ADRB2	P07550	O=C(NC(c1ccccc1)c1cccc(OCCCCCNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)c1)O[C@H]1CN2CCC1CC2	9.9027	10.6000	CHEMBL4874819	close	False	True
+ADRB2	P07550	CC(C)(CCc1ccc(O)cc1)NC[C@H](O)c1cc(O)cc2c1OCC(=O)N2	9.9007		CHEMBL4650929	no_activity_for_target	False	False
+ADRB2	P07550	COc1cccc(CCC(C)(C)NCC(O)c2ccc(O)c3[nH]c(=O)ccc23)c1	9.8986		CHEMBL5028596	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)(C)NC[C@@H](O)COc1ccccc1-c1ccccc1	9.8967	10.4600	CHEMBL2104145	close	False	True
+ADRB2	P07550	C[C@H](Cc1cccc(CC(=O)NCc2ccccc2)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.8962	10.5700	CHEMBL1243158	close	False	True
+ADRB2	P07550	COc1cccc(CCC(C)(C)NC[C@H](O)c2cc(O)cc3c2OCC(=O)N3)c1	9.8943		CHEMBL4650664	no_activity_for_target	False	False
+ADRB2	P07550	O=c1ccc2c(C(O)CNCCCc3cccc(C(F)(F)F)c3)ccc(O)c2[nH]1	9.8922		CHEMBL5028764	no_activity_for_target	False	False
+ADRB2	P07550	CC(CCc1ccc(F)cc1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.8922		CHEMBL5028547	no_activity_for_target	False	False
+ADRB2	P07550	COc1ccccc1CCC(C)(C)NCC(O)c1cc(O)cc2c1OCC(=O)N2	9.8899		CHEMBL4650951	no_activity_for_target	False	False
+ADRB2	P07550	COc1ccccc1CC[C@@H](C)NC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12	9.8899		CHEMBL5028119	no_activity_for_target	False	False
+ADRB2	P07550	C[C@H](Cc1cccc(CC(=O)NCC2CCCCC2)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.8861	10.4900	CHEMBL1243348	close	False	True
+ADRB2	P07550	CC(C)(CCc1cccc(O)c1)NCC(O)c1cc(O)cc2c1OCC(=O)N2	9.8830		CHEMBL4651173	no_activity_for_target	False	False
+ADRB2	P07550	COc1ccc(CCC(C)(C)NCC(O)c2ccc(O)c3[nH]c(=O)ccc23)cc1	9.8830		CHEMBL5028422	no_activity_for_target	False	False
+ADRB2	P07550	C[C@H](Cc1ccc2[nH]c(C(=O)NCc3nccs3)cc2c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.8827	10.5100	CHEMBL430361	close	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CN[C@@H]3CCC[C@H]3OCc3ccccc3)c2s1	9.8807	9.3000	CHEMBL1221680	close	False	True
+ADRB2	P07550	COc1ccccc1OCCNC[C@H](O)COc1cccc2[nH]c3ccccc3c12	9.8794	9.7800	CHEMBL723	confirmed	False	True
+ADRB2	P07550	CC(C)(CCc1ccccc1)NCC(O)c1cc(O)cc2c1OCC(=O)N2	9.8782	10.4900	CHEMBL4638864	close	False	True
+ADRB2	P07550	CC(CCc1ccc(Cl)cc1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.8758		CHEMBL5028127	no_activity_for_target	False	False
+ADRB2	P07550	CC(CCc1ccccc1Cl)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.8733		CHEMBL5028269	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)(C)NCC(O)COc1ccccc1-c1ccccc1	9.8697	10.4600	CHEMBL2104145	close	False	True
+ADRB2	P07550	COc1ccc(CCC(C)(C)NC[C@H](O)c2cc(O)cc3c2OCC(=O)N3)cc1	9.8681		CHEMBL4650644	no_activity_for_target	False	False
+ADRB2	P07550	O=c1ccc2c(C(O)CNCCCc3cccc(O)c3)ccc(O)c2[nH]1	9.8660	10.4400	CHEMBL4473515	close	False	True
+ADRB2	P07550	CC(C)(CCc1ccc(O)cc1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.8655		CHEMBL5028602	no_activity_for_target	False	False
+ADRB2	P07550	CSc1ccccc1CNC(=O)c1cc2cc(C[C@@H](C)NC[C@H](O)c3ccc(O)c(CO)c3)ccc2[nH]1	9.8601	10.4200	CHEMBL236040	close	False	True
+ADRB2	P07550	C[C@H](Cc1ccc2[nH]c(C(=O)NCc3ccccn3)cc2c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.8601	10.4200	CHEMBL391006	close	False	True
+ADRB2	P07550	Cc1ccc(CCC(C)NCC(O)c2ccc(O)c3[nH]c(=O)ccc23)cc1	9.8601		CHEMBL5028523	no_activity_for_target	False	False
+ADRB2	P07550	Cc1cccc(CCCNCC(O)c2ccc(O)c3[nH]c(=O)ccc23)c1	9.8601		CHEMBL5028756	no_activity_for_target	False	False
+ADRB2	P07550	O=C(NC(c1ccccc1)c1cccc(OCc2ccc(C(=O)OCCCCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)c1)O[C@H]1CN2CCC1CC2	9.8545	10.7000	CHEMBL5184455	close	False	True
+ADRB2	P07550	CC(C)(CCc1ccc(O)cc1)NCC(O)c1cc(O)cc2c1OCC(=O)N2	9.8545		CHEMBL4650929	no_activity_for_target	False	False
+ADRB2	P07550	O=C(N[C@H](c1ccccc1)c1cccc(OCCCCCCNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)c1)O[C@H]1CN2CCC1CC2	9.8545	9.3000	CHEMBL4847910	close	False	True
+ADRB2	P07550	COc1ccccc1CNC(=O)Cc1cccc(C[C@@H](C)NC[C@H](O)c2ccc(O)c(NS(C)(=O)=O)c2)c1	9.8539	10.4000	CHEMBL1243256	close	False	True
+ADRB2	P07550	C[C@H](Cc1cccc(CC(=O)NCCCc2ccccc2)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.8539	10.3800	CHEMBL1243222	close	False	True
+ADRB2	P07550	C[C@H](Cc1cccc(CC(=O)NCCc2ccccc2)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.8539	10.4000	CHEMBL1243190	close	False	True
+ADRB2	P07550	COC(=O)C1[C@H]2C[C@H]3c4[nH]c5ccccc5c4CCN3C[C@@H]2CC[C@@H]1O	9.8539		CHEMBL10347	no_activity_for_target	True	False
+ADRB2	P07550	COc1cccc(CCCNCC(O)c2ccc(O)c3[nH]c(=O)ccc23)c1	9.8516	10.3900	CHEMBL4577508	close	False	True
+ADRB2	P07550	CC(C)(CCc1ccccc1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.8516	10.6800	CHEMBL4445289	close	False	True
+ADRB2	P07550	COc1ccccc1CCCNCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.8457	10.3700	CHEMBL4473790	close	False	True
+ADRB2	P07550	COc1cc(CCC(C)NCC(O)c2ccc(O)c3[nH]c(=O)ccc23)cc(OC)c1OC	9.8396		CHEMBL5028807	no_activity_for_target	False	False
+ADRB2	P07550	Cc1cc(O)cc(C)c1CNC(=O)Cc1cccc(CC(C)(C)NC[C@H](O)c2ccc(O)c(NS(C)(=O)=O)c2)c1	9.8386	10.3500	CHEMBL1243101	close	False	True
+ADRB2	P07550	O=c1ccc2c(C(O)CNCCCc3ccc(F)cc3)ccc(O)c2[nH]1	9.8334		CHEMBL5028930	no_activity_for_target	False	False
+ADRB2	P07550	COc1ccc(CCC(C)(C)NCC(O)c2cc(O)cc3c2OCC(=O)N3)cc1	9.8269		CHEMBL4650644	no_activity_for_target	False	False
+ADRB2	P07550	COc1cccc(CCC(C)(C)NCC(O)c2cc(O)cc3c2OCC(=O)N3)c1	9.8269		CHEMBL4650664	no_activity_for_target	False	False
+ADRB2	P07550	O=c1ccc2c(C(O)CNCCCc3ccccc3O)ccc(O)c2[nH]1	9.8269	10.3100	CHEMBL4561253	confirmed	False	True
+ADRB2	P07550	C[C@H](Cc1ccc2[nH]c(C(=O)NCc3ccccc3)cc2c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.8268	10.3100	CHEMBL391946	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1ccccc1)NCC(O)c1ccc(O)c(NS(C)(=O)=O)c1	9.8239		CHEMBL1160740	no_activity_for_target	False	True
+ADRB2	P07550	CC(C)NC[C@H](O)c1ccc(O)c(O)c1	9.8239	9.8000	CHEMBL434	confirmed	False	True
+ADRB2	P07550	CCOc1ccccc1CNC(=O)Cc1cccc(C[C@@H](C)NC[C@H](O)c2ccc(O)c(NS(C)(=O)=O)c2)c1	9.8239	10.3200	CHEMBL1243285	confirmed	False	True
+ADRB2	P07550	O=C(N[C@H](c1ccccc1)c1cccc(OCc2ccc(C(=O)OCCCCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)c1)O[C@H]1CN2CCC1CC2	9.8236	10.7000	CHEMBL5184455	close	False	True
+ADRB2	P07550	CCN(CCCNC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12)C(=O)c1ccc(COc2cccc(-c3ccc([C@@H](NC(=O)O[C@H]4CN5CCC4CC5)c4ccccc4)cc3)c2)cc1	9.8236	10.3000	CHEMBL4866806	confirmed	False	False
+ADRB2	P07550	O=C(N[C@@H](c1ccccc1)c1cccc(OCc2nc(C(=O)OCCCCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)co2)c1)O[C@H]1CN2CCC1CC2	9.8236	10.3000	CHEMBL5208957	confirmed	False	False
+ADRB2	P07550	O=c1ccc2c(C(O)CNCCCc3ccc(O)cc3)ccc(O)c2[nH]1	9.8236	10.3000	CHEMBL4556022	confirmed	False	True
+ADRB2	P07550	C[C@H](Cc1ccc2[nH]c(C(=O)NCC3CCC3)cc2c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.8210	10.2900	CHEMBL236251	confirmed	False	True
+ADRB2	P07550	CC(CC(=O)Nc1cccc(CCCNCC(O)c2ccc(O)c3[nH]c(=O)ccc23)c1)CC(C)(C)C	9.8202	10.2900	CHEMBL4576089	confirmed	False	True
+ADRB2	P07550	C[C@H](Cc1ccc2[nH]c(C(=O)NCc3c(F)cccc3F)cc2c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.8153	10.2800	CHEMBL235612	confirmed	False	True
+ADRB2	P07550	Cc1ccccc1CCCNCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.8026		CHEMBL5028241	no_activity_for_target	False	False
+ADRB2	P07550	COc1cccc(OC)c1CNC(=O)c1cc2cc(C[C@@H](C)NC[C@H](O)c3ccc(O)c(CO)c3)ccc2[nH]1	9.8013	10.2400	CHEMBL237501	confirmed	False	True
+ADRB2	P07550	C[C@H](Cc1ccc2[nH]c(C(=O)N[C@H](C)c3ccccc3)cc2c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.8013	10.2400	CHEMBL392056	confirmed	False	True
+ADRB2	P07550	Cc1ccc(CNC(=O)Cc2cccc(C[C@@H](C)NC[C@H](O)c3ccc(O)c(NS(C)(=O)=O)c3)c2)cc1C	9.7959	10.2500	CHEMBL1243317	confirmed	False	True
+ADRB2	P07550	C[C@H](Cc1cccc(CC(=O)NC23CC4CC(CC(C4)C2)C3)c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.7959	10.1900	CHEMBL402501	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCSCCCOCCc3ccccc3)c2s1	9.7876	10.2000	CHEMBL1807817	confirmed	False	True
+ADRB2	P07550	CC(C)(CC(c1ccccc1)c1ccccc1)NC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12	9.7837	9.6600	CHEMBL4473349	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1cccc(CC(=O)NCc2ccc(Cl)c(Cl)c2)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.7696	10.1800	CHEMBL1243347	confirmed	False	True
+ADRB2	P07550	CC(C)NCC(O)COc1cccc2[nH]c3ccccc3c12	9.7645	9.9400	CHEMBL324665	confirmed	False	True
+ADRB2	P07550	CC(CCc1cccc(Cl)c1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.7634		CHEMBL5028315	no_activity_for_target	False	False
+ADRB2	P07550	COc1cc(CCNC[C@H](O)COc2cccc3ccccc23)ccc1OCCCSSCCN	9.7620	10.1400	CHEMBL4456301	confirmed	False	True
+ADRB2	P07550	O=c1ccc2c(C(O)CNCCCc3ccccc3)ccc(O)c2[nH]1	9.7591	10.1300	CHEMBL4536813	confirmed	False	True
+ADRB2	P07550	COc1ccc(CCCNCC(O)c2ccc(O)c3[nH]c(=O)ccc23)cc1	9.7591	10.1300	CHEMBL4588479	confirmed	False	True
+ADRB2	P07550	CC(C)(CC(c1ccc(F)cc1)c1ccc(F)cc1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.7548	10.0900	CHEMBL4438531	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCSCCCOCCc3ccccc3)c2s1	9.7461	10.1000	CHEMBL1807819	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCSCCOCCc3ccccc3)c2s1	9.7461	10.1000	CHEMBL1807818	confirmed	False	True
+ADRB2	P07550	CC(C)(CC(c1ccc(F)cc1)c1ccc(F)cc1)NC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12	9.7416	10.0900	CHEMBL4438531	confirmed	False	True
+ADRB2	P07550	COc1cc(CCCNCC(O)c2ccc(O)c3[nH]c(=O)ccc23)cc(OC)c1OC	9.7371		CHEMBL5028718	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)(Cc1cccc(CC(=O)NCc2cc(Cl)c(O)c(Cl)c2)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.7212	10.0400	CHEMBL1243068	confirmed	False	True
+ADRB2	P07550	Cc1ccc(CCCNCC(O)c2ccc(O)c3[nH]c(=O)ccc23)cc1	9.7089		CHEMBL5028767	no_activity_for_target	False	False
+ADRB2	P07550	O=C(Cc1cccc(CCNC[C@H](O)c2ccc(O)c(CO)c2)c1)NCc1ccccc1	9.7077	10.0200	CHEMBL230203	confirmed	False	True
+ADRB2	P07550	C[C@H](Cc1cccc(CC(=O)NCc2ccccc2)c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.7077	10.0200	CHEMBL230487	confirmed	False	True
+ADRB2	P07550	CC(C)(C)NC[C@H](O)COc1cccc2[nH]c(=O)[nH]c12	9.6990	10.0000	CHEMBL36060	confirmed	False	True
+ADRB2	P07550	COc1ccc(CC[C@H](C)NC[C@@H](O)COc2ccc(O)cc2)cc1	9.6990		CHEMBL12949	assay_no_pchembl	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCSCCOCCc3cccc4ccccc34)c2s1	9.6990	10.0000	CHEMBL1807820	confirmed	False	True
+ADRB2	P07550	O=C(CCN1CCC(OC(=O)Nc2ccccc2-c2ccccc2)CC1)Nc1cccc(CCNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)c1	9.6990	10.0000	CHEMBL3426706	confirmed	False	True
+ADRB2	P07550	Cc1ccccc1CC(C)(C)NCC(O)c1ccc(O)c2c1OCC(=O)N2	9.6990	10.0000	CHEMBL579394	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1ccc(O)cc1)NCC(O)c1ccc(O)c2c1OCC(=O)N2	9.6990	10.0000	CHEMBL568272	confirmed	False	True
+ADRB2	P07550	OC(COc1cccc2[nH]c3ccccc3c12)CN1CCC(Cc2cccnc2)CC1	9.6990	10.0000	CHEMBL1082501	confirmed	False	True
+ADRB2	P07550	O=C(NC(c1ccccc1)c1cccc(OCCCCCCCNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)c1)O[C@H]1CN2CCC1CC2	9.6990	10.0000	CHEMBL4854418	confirmed	False	True
+ADRB2	P07550	O=C(N[C@@H](c1ccccc1)c1ccc(-c2cccc(OCc3ccc(C(=O)N(CCCNC[C@H](O)c4ccc(O)c5[nH]c(=O)ccc45)Cc4ccccc4)cc3)c2)cc1)O[C@H]1CN2CCC1CC2	9.6990	10.0000	CHEMBL4871702	confirmed	False	False
+ADRB2	P07550	CC(CF)NCC(O)COc1cccc2[nH]c3ccccc3c12	9.6809		CHEMBL111639	no_activity_for_target	False	False
+ADRB2	P07550	C[C@H](Cc1ccc2[nH]c(C(=O)NCc3ccc(S(N)(=O)=O)cc3)cc2c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.6536	9.9100	CHEMBL235818	confirmed	False	True
+ADRB2	P07550	OCc1cc([C@@H](O)CNCCCCCCOCCOCc2cccc3ccccc23)ccc1O	9.6461		CHEMBL1198923	no_activity_for_target	False	False
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCOCCOCCc3ccccc3)c2s1	9.6461	9.9000	CHEMBL1807821	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCOCCOCCc3cccc4ccccc34)c2s1	9.6461	9.9000	CHEMBL1807822	confirmed	False	True
+ADRB2	P07550	O=C1COc2c(cc(O)cc2C(O)CNCCCc2cc(F)cc(F)c2)N1	9.6405		CHEMBL4651230	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)(Cc1cccc(CC(=O)NCc2cc(Cl)cc(Cl)c2O)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.6383	9.8900	CHEMBL1243035	confirmed	False	True
+ADRB2	P07550	O=c1ccc2c(C(O)CNCCCc3ccc(-c4ccccc4)cc3)ccc(O)c2[nH]1	9.6348	9.8800	CHEMBL4454489	confirmed	False	True
+ADRB2	P07550	C[C@H](Cc1ccc(O)cc1)NC[C@H](O)c1cc(O)cc(O)c1	9.6198	9.6100	CHEMBL32800	confirmed	False	True
+ADRB2	P07550	Cc1ccc(Cl)c(OCC(O)CNC(C)(C)C)c1	9.6198		CHEMBL305380	assay_no_pchembl	False	True
+ADRB2	P07550	CC(C)(CC(c1ccccc1)c1ccccc1)NC[C@H](O)c1cc(O)cc2c1OCC(=O)N2	9.6175		CHEMBL4650800	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)(C)NCC(O)COc1cccc2oc3ccccc3c12	9.6108	9.8400	CHEMBL513104	confirmed	False	True
+ADRB2	P07550	O=c1ccc2c(C(O)CNCCCCc3ccccc3)ccc(O)c2[nH]1	9.5997	9.8200	CHEMBL4541263	confirmed	False	True
+ADRB2	P07550	NS(=O)(=O)c1cccc(CCCCOCCCCCCNC[C@H](O)c2ccc(O)c(CO)c2)c1	9.5876		CHEMBL483201	no_activity_for_target	False	False
+ADRB2	P07550	Cc1cc(C(=O)NCCN2CCC(OC(=O)Nc3ccccc3-c3ccccc3)CC2)c(C)cc1CNC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12	9.5876	9.8000	CHEMBL3426701	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCc3cccc(CNCCc4ccccc4F)c3)c2s1	9.5876	9.8000	CHEMBL1944691	confirmed	False	True
+ADRB2	P07550	Cc1cc(CCCCOCCCCCCNC[C@H](O)c2ccc(O)c(CO)c2)cc(NC(N)=O)c1	9.5876		CHEMBL1852543	no_activity_for_target	False	False
+ADRB2	P07550	O=C(CCN1CCC(OC(=O)Nc2ccccc2-c2ccccc2)CC1)N[C@H]1CC[C@H](CNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)CC1	9.5876	9.8000	CHEMBL3426698	confirmed	False	True
+ADRB2	P07550	COc1cc(C(=O)NCCN2CCC(OC(=O)Nc3ccccc3-c3ccccc3)CC2)c(Cl)cc1CNC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12	9.5876	9.8000	CHEMBL4878138	confirmed	False	True
+ADRB2	P07550	COc1cc(CCNC[C@H](O)COc2cccc3ccccc23)ccc1OCCSSCCN	9.5850	8.4700	CHEMBL4463246	activity_mismatch	False	True
+ADRB2	P07550	O=c1ccc2c(C(O)CNCCOc3ccccc3)ccc(O)c2[nH]1	9.5814	9.7900	CHEMBL4542430	confirmed	False	True
+ADRB2	P07550	C[C@H](Cc1ccc2[nH]c(C(=O)NCc3ccc(O)cc3)cc2c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.5784	9.7900	CHEMBL394339	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1cccc(CC(=O)NCc2cc(Cl)ccc2O)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.5686	9.7700	CHEMBL1243000	confirmed	False	True
+ADRB2	P07550	COc1ccc(C[C@@H](C)NC[C@H](O)c2cc(O)cc(O)c2)cc1	9.5686	9.5200	CHEMBL228992	confirmed	False	True
+ADRB2	P07550	CC(C)(CC(c1ccc(F)cc1)c1ccc(F)cc1)NC[C@H](O)c1cc(O)cc2c1OCC(=O)N2	9.5626		CHEMBL4650679	no_activity_for_target	False	False
+ADRB2	P07550	O=C1COc2c(cc(O)cc2C(O)CNCCCc2cccc(O)c2)N1	9.5626		CHEMBL4651226	no_activity_for_target	False	False
+ADRB2	P07550	COc1ccc(Nc2ccc(CCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)cc1-c1cccc(CN)c1	9.5260	9.5000	CHEMBL3298325	confirmed	False	True
+ADRB2	P07550	Cc1cc(NC(=O)CCN2CCC(OC(=O)Nc3ccccc3-c3ccccc3)CC2)ccc1CNC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12	9.5236	9.7000	CHEMBL3426694	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCOCCNCCc3cccc(Cl)c3)c2s1	9.5236	9.7000	CHEMBL1807872	confirmed	False	True
+ADRB2	P07550	CC(CNCc1ccc(CCNC[C@H](O)c2ccc(O)c3[nH]c(=O)sc23)cc1)c1ccccc1	9.5236	9.4000	CHEMBL1945036	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCc3cccc(CNCCc4c(Cl)cccc4Cl)c3)c2s1	9.5236	9.7000	CHEMBL1947157	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCc3ccc(CNCCc4ccccn4)cc3)c2s1	9.5236	9.7000	CHEMBL1945034	confirmed	False	True
+ADRB2	P07550	CN(CCNC[C@H](O)c1ccc(O)c2[nH]c(=O)sc12)C(=O)CCOCCc1ccccc1	9.5236	9.7000	CHEMBL1800472	confirmed	False	True
+ADRB2	P07550	O=S(=O)(NC1CCCCC1)c1cccc(CCCCOCCCCCCNC[C@H](O)c2ccc(O)c(CO)c2)c1	9.5236		CHEMBL1187371	no_activity_for_target	False	False
+ADRB2	P07550	O=C(NC(c1ccccc1)c1cccc(OCCCCCCCCCNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)c1)O[C@H]1CN2CCC1CC2	9.5236	9.7000	CHEMBL4846536	confirmed	False	True
+ADRB2	P07550	O=C(c1ccccc1)C1CCN(CC(O)COc2cccc3[nH]c4ccccc4c23)CC1	9.5229	9.7000	CHEMBL1082827	confirmed	False	True
+ADRB2	P07550	COc1ccc(C(=O)C2CCN(CC(O)COc3cccc4[nH]c5ccccc5c34)CC2)cc1	9.5229	9.7000	CHEMBL1082828	confirmed	False	True
+ADRB2	P07550	COc1ccc(CC2CCN(CC(O)COc3cccc4[nH]c5ccccc5c34)CC2)cc1	9.5229	9.7000	CHEMBL1082500	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1ccccc1)NCC(O)c1ccc(O)c2c1OCC(=O)N2	9.5229	9.7000	CHEMBL567863	confirmed	False	True
+ADRB2	P07550	CC(C)(C)NC[C@H](O)COc1nsnc1N1CCOCC1	9.5101	9.5400	CHEMBL499	confirmed	False	False
+ADRB2	P07550	CC(C)(C)NCC(O)COc1nsnc1N1CCOCC1	9.5086	9.5400	CHEMBL499	confirmed	False	False
+ADRB2	P07550	CC(C)(Cc1cccc(CC(=O)NCc2ccc3cc(O)ccc3c2)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.5086	9.6800	CHEMBL1240965	confirmed	False	True
+ADRB2	P07550	O=C1COc2c(cc(O)cc2C(O)CNCCCc2ccccc2O)N1	9.5034		CHEMBL4651237	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)(CC(c1ccccc1)c1ccccc1)NCC(O)c1ccc(O)c2[nH]c(=O)ccc12	9.4965	9.6600	CHEMBL4473349	confirmed	False	True
+ADRB2	P07550	CC(C)CCC(=O)Nc1cccc(CCCNCC(O)c2ccc(O)c3[nH]c(=O)ccc23)c1	9.4896	9.6500	CHEMBL4460095	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1cccc(CC(=O)NCc2ccc(-c3ccc(O)cc3)cc2)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.4685	9.6200	CHEMBL1240966	confirmed	False	True
+ADRB2	P07550	Cc1ccc(OC[C@H](O)[C@H](C)NC(C)C)c2c1CCC2	9.4616	9.6100	CHEMBL198059	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CN[C@H]3CCC[C@@H]3OCc3ccccc3)c2s1	9.4559	9.3000	CHEMBL1221680	confirmed	False	True
+ADRB2	P07550	COc1cc(CCNC[C@H](O)c2ccc(O)c3c2OCC(=O)N3)ccc1OCCCc1ccccc1	9.4559	9.6000	CHEMBL3798748	confirmed	False	True
+ADRB2	P07550	CC(C)NC(CO)c1cc(F)c(N)c(C#N)c1	9.4547	9.6000	CHEMBL4860455	confirmed	False	True
+ADRB2	P07550	COc1cc(NC(=O)OCCN(C)[C@H]2CC[C@H](OC(=O)C(O)(c3cccs3)c3cccs3)CC2)c(Cl)cc1CNC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12	9.4545	9.6000	CHEMBL3916700	confirmed	False	False
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCc3ccc(CNCCc4ccccc4)cc3)c2s1	9.4545	9.6000	CHEMBL1944695	confirmed	False	True
+ADRB2	P07550	CS(=O)(=O)Nc1cccc(COCCOCCCCCCNC[C@H](O)c2ccc(O)c(CO)c2)c1	9.4545		CHEMBL1198908	no_activity_for_target	False	False
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCc3cccc(CNCCc4ccccc4Cl)c3)c2s1	9.4545	9.6000	CHEMBL1944690	confirmed	False	True
+ADRB2	P07550	NC(=O)Cn1c(O)cn(-c2cccc(CCCCOCCCCCCNC[C@H](O)c3ccc(O)c(CO)c3)c2)c1=O	9.4545			not_in_chembl	False	False
+ADRB2	P07550	O=C1COc2c(cc(O)cc2C(O)CNCCCCc2ccccc2)N1	9.4545		CHEMBL4651124	no_activity_for_target	False	False
+ADRB2	P07550	CN(CCCn1nnc2cc(CNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)ccc21)[C@H]1CC[C@H](OC(=O)C(O)(c2cccs2)c2cccs2)CC1	9.4545	9.6000	CHEMBL4297483	confirmed	False	False
+ADRB2	P07550	COc1c(CNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)ccc(NC(=O)CCN2CCC(OC(=O)Nc3ccccc3-c3ccccc3)CC2)c1C	9.4545	9.6000	CHEMBL3426695	confirmed	False	True
+ADRB2	P07550	CC(C)c1ncc(C(=O)N2CCOC3(CCN(Cc4ccc(F)c(CCNC[C@H](O)c5ccc(O)c6[nH]c(=O)sc56)c4)CC3)C2)s1	9.4545	9.6000	CHEMBL4465556	confirmed	False	True
+ADRB2	P07550	CN(CCN1CCC(OC(=O)Nc2ccccc2-c2ccccc2)CC1)C(=O)c1ccc(CNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)cc1	9.4545	9.6000	CHEMBL3426702	confirmed	False	True
+ADRB2	P07550	COc1cc(NC(=O)CCN2CCC(OC(=O)Nc3ccccc3-c3ccccc3)CC2)c(Cl)cc1CNC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12	9.4545	9.6000	CHEMBL3039518	confirmed	False	True
+ADRB2	P07550	O=C(NC(c1ccccc1)c1ccc(OCCCCCCCCCNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)cc1)O[C@H]1CN2CCC1CC2	9.4545	9.6000	CHEMBL4878395	confirmed	False	True
+ADRB2	P07550	COc1cccc(CCNC(=O)c2cc3cc(C[C@@H](C)NC[C@H](O)c4ccc(O)c(CO)c4)ccc3[nH]2)c1	9.4510	9.6000	CHEMBL236042	confirmed	False	True
+ADRB2	P07550	CC[C@H](Cc1ccc2[nH]c(C(=O)NCc3c(OC)cccc3OC)cc2c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.4461	9.5900	CHEMBL391308	confirmed	False	True
+ADRB2	P07550	CCc1cc2c(cc1CC)CC(C)(NC[C@H](O)c1ccc(O)c3[nH]c(=O)ccc13)C2	9.4437	9.5500	CHEMBL2088201	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1cccc(CC(=O)NCc2cccc(-c3ccc(O)cc3)c2)c1)NC[C@H](O)c1ccc(O)c(NS(C)(=O)=O)c1	9.4437	9.5900	CHEMBL1240967	confirmed	False	True
+ADRB2	P07550	COc1ccc(Nc2ccc(CCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)cc1-c1ccccc1	9.4413	9.4000	CHEMBL3290999	confirmed	False	True
+ADRB2	P07550	COc1ccccc1OCCNCC(O)COc1cccc2[nH]c3ccccc3c12	9.4007	9.6200	CHEMBL723	confirmed	False	True
+ADRB2	P07550	CN(CCCNC[C@H](O)c1ccc(O)c2[nH]c(=O)sc12)c1ccccc1	9.3979	9.5200	CHEMBL1221804	confirmed	False	True
+ADRB2	P07550	O=C(c1ccc(F)cc1)C1CCN(CC(O)COc2cccc3[nH]c4ccccc4c23)CC1	9.3979	9.5200	CHEMBL1086077	confirmed	False	True
+ADRB2	P07550	NCCOc1ccc(Nc2ccc(CCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)cc1	9.3973	9.3000	CHEMBL3298328	confirmed	False	True
+ADRB2	P07550	COc1ccc(Nc2ccc(CCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)cc1-c1ccc(CN)cc1	9.3973	9.3000	CHEMBL3298326	confirmed	False	True
+ADRB2	P07550	O=C(Nc1cccc(CCCNCC(O)c2ccc(O)c3[nH]c(=O)ccc23)c1)c1ccccc1	9.3958	9.5200	CHEMBL4566727	confirmed	False	True
+ADRB2	P07550	Oc1cc2c(cc1O)C(Cc1cc(I)cc(I)c1)NCC2	9.3958	9.5200	CHEMBL122757	confirmed	False	True
+ADRB2	P07550	Cc1c[nH]c2cccc(OCC(O)CN3CCN(C(c4ccccc4)c4ccccc4)CC3)c12	9.3920	9.5100	CHEMBL461463	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCc3cccc(CNCc4ccccc4Cl)c3)c2s1	9.3807	9.5000	CHEMBL1945041	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1ccc(NCC(O)c2ccccc2)cc1)NCC(O)c1ccc(O)c(CO)c1	9.3807	9.5000	CHEMBL1940817	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCc3ccc(CNCCc4c(Cl)cccc4Cl)cc3)c2s1	9.3807	9.5000	CHEMBL1944689	confirmed	False	True
+ADRB2	P07550	Cc1cccc2c(CCNCc3cccc(CCNC[C@H](O)c4ccc(O)c5[nH]c(=O)sc45)c3)c[nH]c12	9.3807	9.5000	CHEMBL1945031	confirmed	False	True
+ADRB2	P07550	COc1ccccc1CCNCc1cccc(CCNC[C@H](O)c2ccc(O)c3[nH]c(=O)sc23)c1	9.3807	9.5000	CHEMBL1944693	confirmed	False	True
+ADRB2	P07550	COc1ccccc1CCNCc1ccc(CCNC[C@H](O)c2ccc(O)c3[nH]c(=O)sc23)cc1	9.3807	9.5000	CHEMBL1944694	confirmed	False	True
+ADRB2	P07550	O=C1COc2c(cc(O)cc2C(O)CNCCCc2ccccc2)N1	9.3807		CHEMBL4650763	no_activity_for_target	False	False
+ADRB2	P07550	OCc1cc(C(O)CNCCc2ccc(NCC(O)c3ccccc3)cc2)ccc1O	9.3807	9.5000	CHEMBL1940815	confirmed	False	True
+ADRB2	P07550	O=C(CNC(=O)Nc1cccc(CCCCOCCCCCCNC[C@H](O)c2ccc(O)c(CO)c2)c1)NC1CCCC1	9.3807		CHEMBL1852632	no_activity_for_target	False	False
+ADRB2	P07550	OCc1cc(C(O)CNCCCCCCOCCCCc2ccccc2)ccc1O	9.3807	9.4100	CHEMBL1263	confirmed	False	True
+ADRB2	P07550	COc1cc(NC(=O)CCN2CCC(OC(=O)Nc3ccccc3-c3ccccc3)CC2)c(C)cc1CNC[C@H](O)c1ccc(O)c2[nH]c(=O)ccc12	9.3807	9.5000	CHEMBL3426696	confirmed	False	True
+ADRB2	P07550	O=C(Nc1ccccc1-c1ccccc1)OC1CCN(CCCCCCCCNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)CC1	9.3768	9.4900	CHEMBL1683933	confirmed	False	True
+ADRB2	P07550	CC(C)(N)COc1ccc(Nc2ccc(CCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)cc1-c1ccccc1	9.3497	9.2000	CHEMBL3298987	confirmed	False	True
+ADRB2	P07550	CCN(Cc1ccc(O)cc1Cl)C(=O)Cc1cccc(CC(C)(C)NC[C@H](O)c2ccc(O)c(NS(C)(=O)=O)c2)c1	9.3279	9.4300	CHEMBL1242969	confirmed	False	True
+ADRB2	P07550	NCCCCOc1ccc(Nc2ccc(CCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)cc1	9.3202	9.2000	CHEMBL3298330	confirmed	False	True
+ADRB2	P07550	COc1cc(NC(=O)OCCN(C)[C@H]2CC[C@H](OC(=O)C(O)(c3cccs3)c3cccs3)CC2)c(Cl)cc1CNC[C@H](O)c1ccc(O)c2c1OCC(=O)N2	9.3188	9.4200	CHEMBL3947244	confirmed	False	False
+ADRB2	P07550	COc1ccccc1CCCNCC(O)c1cc(O)cc2c1OCC(=O)N2	9.3186		CHEMBL4651233	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)NC[C@H](O)COc1ccccc1CCCCNC(=O)NCCCCc1ccccc1OC[C@@H](O)CNC(C)C	9.3186	9.4200	CHEMBL4564189	confirmed	False	True
+ADRB2	P07550	NCCOCCOc1ccc(Nc2ccc(CCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)cc1	9.3056	9.2000	CHEMBL3298691	confirmed	False	True
+ADRB2	P07550	NCCCOc1ccc(Nc2ccc(CCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)cc1	9.3056	9.2000	CHEMBL3298329	confirmed	False	True
+ADRB2	P07550	COc1c(CNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)ccc(NC(=O)CCN2CCC(OC(=O)Nc3ccccc3-c3ccccc3)CC2)c1Cl	9.3027	9.4000	CHEMBL3426692	confirmed	False	True
+ADRB2	P07550	OCc1cc([C@@H](O)CNCCCCCCOCCOCc2c(Cl)cccc2Cl)ccc1O	9.3027	8.2400	CHEMBL1198857	activity_mismatch	False	False
+ADRB2	P07550	Cc1cc(C)cc(COCCOCCCCCCNC[C@H](O)c2ccc(O)c(CO)c2)c1	9.3027		CHEMBL1198889	no_activity_for_target	False	False
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCCSCCNCCc3ccccc3Cl)c2s1	9.3027	9.4000	CHEMBL1807870	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCc3ccc(CNCCc4ccccc4F)cc3)c2s1	9.3027	9.4000	CHEMBL1944692	confirmed	False	True
+ADRB2	P07550	Nc1c(Cl)cc([C@@H](O)CNCCc2ccc(NC[C@H](O)c3ccccc3)cc2)cc1Cl	9.3027	9.4000	CHEMBL1940834	confirmed	False	True
+ADRB2	P07550	COc1ccccc1CNCCc1cccc(CCNC[C@H](O)c2ccc(O)c3[nH]c(=O)sc23)c1	9.3027	9.4000	CHEMBL1945299	confirmed	False	True
+ADRB2	P07550	OCc1cc([C@@H](O)CNCCCCCCOCCOCc2cc(Cl)ccc2Cl)ccc1O	9.3027		CHEMBL1198879	no_activity_for_target	False	False
+ADRB2	P07550	OCc1cc(C(O)CNCCc2ccc(OCC(O)c3ccccc3)cc2)ccc1O	9.3027	9.4000	CHEMBL1940816	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CN[C@@H]3CCC[C@@H]3CCc3ccccc3)c2s1	9.3010	9.4000	CHEMBL3323658	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1ccccc1)NC[C@H](O)c1ccc(O)c2[nH]c(=O)sc12	9.3010	9.4000	CHEMBL1221590	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1ccc(C(F)(F)F)cc1)NCC(O)c1ccc(O)c2c1OCC(=O)N2	9.3010	9.4000	CHEMBL584498	confirmed	False	True
+ADRB2	P07550	C[C@H](Cc1ccc2ccccc2c1)NC[C@H](O)c1cc(O)cc(O)c1	9.3010	9.4000	CHEMBL1800961	confirmed	False	True
+ADRB2	P07550	Cc1cccc(CC(C)(C)NCC(O)c2ccc(O)c3c2OCC(=O)N3)c1	9.3010	9.4000	CHEMBL567833	confirmed	False	True
+ADRB2	P07550	CC(C)(C)NCC(O)COc1cccc2[nH]c(=O)[nH]c12	9.2924	10.0000	CHEMBL36060	close	False	True
+ADRB2	P07550	COc1cccc(CCCNCC(O)c2cc(O)cc3c2OCC(=O)N3)c1	9.2785		CHEMBL4650738	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)NC[C@H](O)COc1ccccc1CCCn1cc(CNCc2cn(CCCc3ccccc3OC[C@@H](O)CNC(C)C)nn2)nn1	9.2704	9.3600	CHEMBL4514723	confirmed	False	True
+ADRB2	P07550	O=C(CCCCCNC(=O)COc1ccc(/C=C/c2ccc3n2[B-](F)(F)[N+]2=C(c4cccs4)C=CC2=C3)cc1)NCCOCCOCCNC[C@H](O)COc1cccc2ccccc12	9.2550	9.2100	CHEMBL1830491	confirmed	False	False
+ADRB2	P07550	COc1ccc(Nc2ccc(CCNC[C@H](O)c3ccc(O)c(NC=O)c3)cc2)cc1-c1ccccc1	9.2517	9.1000	CHEMBL3290998	confirmed	False	True
+ADRB2	P07550	COc1ccc(Nc2ccc(CCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)cc1-c1ccccc1CN	9.2517	9.1000	CHEMBL3298324	confirmed	False	True
+ADRB2	P07550	COc1cc(CCNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)ccc1OCCCc1ccccc1	9.2366	9.3200	CHEMBL3800400	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1ccc(O)cc1)NCC(O)COc1cccc2[nH]ccc12	9.2218		CHEMBL1160725	no_activity_for_target	False	False
+ADRB2	P07550	OC(COc1cccc2[nH]c3ccccc3c12)CN1CCC(Cc2ccccc2)CC1	9.2218	9.3000	CHEMBL1086542	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1cc(F)cc(F)c1)NCC(O)c1ccc(O)c2c1OCC(=O)N2	9.2218	9.3000	CHEMBL565267	confirmed	False	True
+ADRB2	P07550	CN(C)CC(=O)NCCCC(=O)Nc1ccc(CC(C)(C)NCC(O)c2ccc(O)c3c2OCC(=O)N3)cc1	9.2218	9.3000	CHEMBL576428	confirmed	False	True
+ADRB2	P07550	O=C(Nc1ccccc1-c1ccccc1)OC1CCN(CCNC(=O)c2ccc(CNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)CC1	9.2210	9.3000	CHEMBL3426699	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCc3cccc(CNCCCc4ccccc4)c3)c2s1	9.2210	9.3000	CHEMBL1945037	confirmed	False	True
+ADRB2	P07550	COc1cc(CNC[C@H](O)c2ccc(O)c3[nH]c(=O)ccc23)ccc1NC(=O)CCN1CCC(OC(=O)Nc2ccccc2-c2ccccc2)CC1	9.2210	9.3000	CHEMBL3426689	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCc3cccc(CNCCCc4ccccn4)c3)c2s1	9.2210	9.3000	CHEMBL1945038	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CNCCOCCCNCCc3cccc(Cl)c3)c2s1	9.2210	9.3000	CHEMBL1807832	confirmed	False	True
+ADRB2	P07550	CCNC(=O)Nc1ccc(CCCCOCCCCCCNC[C@H](O)c2ccc(O)c(CO)c2)cc1	9.2210		CHEMBL1852565	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)NS(=O)(=O)c1cccc(CCCCOCCCCCCNC[C@H](O)c2ccc(O)c(CO)c2)c1	9.2210		CHEMBL1187654	no_activity_for_target	False	False
+ADRB2	P07550	C[C@@H](NCCc1ccc(O)cc1)[C@@H](O)c1ccc(O)cc1	9.2210		CHEMBL785	no_activity_for_target	False	True
+ADRB2	P07550	CN(CCNCCc1ccc(O)c2[nH]c(=O)sc12)C(=O)CCOCCc1ccccc1	9.2210	9.3000	CHEMBL323776	confirmed	False	True
+ADRB2	P07550	NS(=O)(=O)c1ccc(CCCCOCCCCCCNC[C@H](O)c2ccc(O)c(CO)c2)cc1	9.2210		CHEMBL1186722	no_activity_for_target	False	False
+ADRB2	P07550	NC(=O)NCc1cccc(CCCCOCCCCCCNC[C@H](O)c2ccc(O)c(CO)c2)c1	9.2210		CHEMBL1852796	no_activity_for_target	False	False
+ADRB2	P07550	CC(C)C(=O)Nc1ccc(CCCNCC(O)c2ccc(O)c3[nH]c(=O)ccc23)cc1	9.2210	9.3000	CHEMBL4441752	confirmed	False	True
+ADRB2	P07550	CC(C)C(=O)Nc1cccc(CCCNCC(O)c2ccc(O)c3[nH]c(=O)ccc23)c1	9.2210	9.3000	CHEMBL4541169	confirmed	False	True
+ADRB2	P07550	CC(C)(N)COc1ccc(Nc2ccc(CCNC[C@H](O)c3ccc(O)c4[nH]c(=O)ccc34)cc2)cc1	9.1940	9.0000	CHEMBL3298986	confirmed	False	True
+ADRB2	P07550	CC(C)NCC(O)COc1cccc2ccccc12	9.1871	9.2200	CHEMBL27	confirmed	False	True
+ADRB2	P07550	C[C@H](Cc1cccc(CC(=O)NCc2ccc(Cl)c(Cl)c2)c1)NC[C@H](O)c1ccc(O)c(CO)c1	9.1791	8.9600	CHEMBL230490	confirmed	False	True
+ADRB2	P07550	O=c1[nH]c2c(O)ccc([C@@H](O)CN[C@H]3CCC[C@@H]3C3CCCC3)c2s1	9.1549	9.1000	CHEMBL1221682	confirmed	False	True
+ADRB2	P07550	CC(C)(Cc1cccc(C(F)(F)F)c1)NCC(O)c1ccc(O)c2c1OCC(=O)N2	9.1549	9.2200	CHEMBL568273	confirmed	False	True
+ADRB2	P07550	CCc1ccc(CC(C)(C)NCC(O)c2ccc(O)c3c2OCC(=O)N3)cc1	9.1549	9.2200	CHEMBL567192	confirmed	False	True
+ESR2	Q92731	CC=C(c1ccc(O)cc1)C(CC)c1ccc(O)cc1	9.9208			not_in_chembl	False	False
+ESR2	Q92731	C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CCC21C	9.9031	9.8000	CHEMBL691	confirmed	False	True
+ESR2	Q92731	CCNc1c(C=NO)ccc(-c2ccccc2)c1-c1ccccc1	9.8297	10.3200	CHEMBL128227	confirmed	False	True
+ESR2	Q92731	N#CC1(Cc2ccc(O)cc2Cl)CCc2cc(O)ccc21	9.8239	10.3000	CHEMBL4753115	confirmed	False	True
+ESR2	Q92731	CCc1c(-c2ccc(OCCN3CCCCC3)cc2)oc(-c2ccc(O)cc2)c1-c1ccc(O)cc1	9.7959	10.2200	CHEMBL315474	confirmed	False	True
+ESR2	Q92731	CCC(c1ccc(O)cc1)C1CCc2cc(O)ccc21	9.6990	10.0000	CHEMBL4740602	confirmed	False	True
+ESR2	Q92731	C[C@H](c1ccc(O)cc1)[C@@H](C#N)c1ccc(O)cc1	9.6198	9.8500	CHEMBL134938	confirmed	False	True
+ESR2	Q92731	N#CC1(Cc2ccc(O)cc2F)CCc2cc(O)ccc21	9.6021	9.8200	CHEMBL4787989	confirmed	False	True
+ESR2	Q92731	Oc1ccc(CC2CCCCc3cc(O)ccc32)cc1	9.6021	9.8200	CHEMBL4795195	confirmed	False	True
+ESR2	Q92731	Oc1ccc2c(Oc3ccc(OCCN4CCCCC4)cc3)c(-c3cccc(F)c3)ccc2c1	9.5850	9.8000	CHEMBL390021	confirmed	False	True
+ESR2	Q92731	Oc1ccc(CC2CCCc3cc(O)ccc32)cc1	9.5528	9.7400	CHEMBL4750844	confirmed	False	True
+ESR2	Q92731	Oc1ccc([C@@H]2Oc3ccc(O)cc3C3CCC[C@@H]32)cc1	9.5376	9.7200	CHEMBL278703	confirmed	False	True
+ESR2	Q92731	Oc1ccc(C2=C(c3ccc(OCCN4CCCCC4)cc3)c3ccc(O)cc3C2)cc1	9.5376	9.7200	CHEMBL381645	confirmed	False	True
+ESR2	Q92731	CC[C@@]12CCC(=O)C(C(F)(F)F)=C1c1ccc3[nH]nc(F)c3c1C2	9.5229	9.5200	CHEMBL385680	confirmed	False	True
+ESR2	Q92731	ON=Cc1c(O)ccc(-c2ccc(O)cc2)c1Cl	9.4815	9.4200	CHEMBL1782957	confirmed	False	True
+ESR2	Q92731	CCC(Cc1ccc(O)cc1)c1ccc(O)cc1	9.4815	9.6400	CHEMBL549654	confirmed	False	True
+ESR2	Q92731	Cc1cc(O)cc2c1O[C@@H](c1ccc(O)cc1)[C@H]1CCCC21	9.4437	9.5900	CHEMBL399832	confirmed	False	True
+ESR2	Q92731	C[C@]12CC[C@]3(C#N)c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@H]2O	9.4318	9.5700	CHEMBL4782490	confirmed	False	True
+ESR2	Q92731	COCc1cc(O)cc2c1O[C@@H](c1ccc(O)cc1)[C@H]1CCCC21	9.4202	9.5500	CHEMBL236086	confirmed	False	True
+ESR2	Q92731	CC=C1c2ccc(O)cc2CC1c1ccc(O)cc1	9.3979			not_in_chembl	False	False
+ESR2	Q92731	CCCC[C@@]12CCC(=O)C(CC)=C1c1ccc3[nH]nc(F)c3c1C2	9.3979	9.5200	CHEMBL213829	confirmed	False	True
+ESR2	Q92731	C[C@H]1CC2c3cc(O)ccc3O[C@@H](c3ccc(O)cc3)[C@H]2C1	9.3872	9.5100	CHEMBL236045	confirmed	False	True
+ESR2	Q92731	Oc1cc(Br)c2oc(-c3ccc(O)c(F)c3)cc2c1	9.3468	9.4600	CHEMBL182850	confirmed	False	True
+ESR2	Q92731	CCC1(Cc2ccc(O)cc2)CCc2cc(O)ccc21	9.3372	9.4400	CHEMBL4757650	confirmed	False	True
+ESR2	Q92731	C#C[C@]1(O)CC[C@H]2[C@@H]3CCc4cc(O)ccc4[C@H]3CC[C@@]21C	9.3279	9.4300	CHEMBL691	confirmed	False	True
+ESR2	Q92731	Cc1cc(O)ccc1CC(C#N)c1ccc(O)cc1	9.3279	9.4300	CHEMBL135695	confirmed	False	True
+ESR2	Q92731	CCCC[C@@]12CCC(=O)C(CC)=C1c1ccc3[nH]nnc3c1C2	9.3010		CHEMBL212989	no_activity_for_target	False	True
+ESR2	Q92731	CC[C@@]12CCC(=O)C(C(F)(F)F)=C1c1ccc3[nH]ncc3c1C2=O	9.3010	9.4000	CHEMBL215409	confirmed	False	True
+ESR2	Q92731	Oc1ccc([C@@H]2Oc3ccc(O)cc3C3C[C@@H](C(F)(F)F)C[C@@H]32)cc1	9.2924	9.3900	CHEMBL391532	confirmed	False	True
+ESR2	Q92731	N#CC(c1ccc(O)cc1)C(C#N)c1ccc(O)cc1	9.2882	9.3800	CHEMBL342418	confirmed	False	True
+ESR2	Q92731	CC1(Cc2ccc(O)cc2)CCc2cc(O)ccc21	9.2757	9.3700	CHEMBL4790777	confirmed	False	True
+ESR2	Q92731	CCc1c(-c2ccc(O)cc2)oc(-c2ccccc2)c1-c1ccc(OCCN2CCCCC2)cc1	9.2757	9.3700	CHEMBL432371	confirmed	False	True
+ESR2	Q92731	Oc1ccc([C@@H]2Oc3ccc(O)cc3C3CC(F)(F)C[C@@H]32)cc1	9.2676	9.3600	CHEMBL236718	confirmed	False	True
+ESR2	Q92731	NC(=O)c1ccc(C2=C(c3ccc(O)cc3)Cc3cc(O)ccc32)cc1	9.2518	9.3400	CHEMBL198499	confirmed	False	True
+ESR2	Q92731	Cc1c(-c2ccc(O)cc2)oc(-c2ccc(O)cc2)c1-c1ccc(OCCN2CCCCC2)cc1	9.2441	9.3300	CHEMBL314561	confirmed	False	True
+ESR2	Q92731	Cc1cc(O)ccc1CC1(C#N)CCc2cc(O)ccc21	9.2366	9.3200	CHEMBL4747222	confirmed	False	True
+ESR2	Q92731	Oc1ccc(C2=C(c3ccc(Cl)cc3)c3ccc(O)cc3C2)cc1	9.2291	9.3100	CHEMBL364442	confirmed	False	True
+ESR2	Q92731	N#Cc1cc(-c2ccc(O)cc2F)cc2ccc(O)cc12	9.2218	9.3000	CHEMBL363634	confirmed	False	True
+ESR2	Q92731	COc1cc(O)c(Br)c2cc(-c3ccc(O)cc3)oc12	9.2218	9.3000	CHEMBL433944	confirmed	False	True
+ESR2	Q92731	CC/C(=C(\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1	9.2147	9.2900	CHEMBL83	confirmed	False	False
+ESR2	Q92731	CCCC1(Cc2ccc(O)cc2)CCc2cc(O)ccc21	9.2007	9.2800	CHEMBL4759069	confirmed	False	True
+ESR2	Q92731	COCc1cc(O)cc2c1O[C@@H](c1ccc(O)cc1)[C@H]1CC(F)(F)CC21	9.2007	9.2800	CHEMBL236720	confirmed	False	True
+ESR2	Q92731	O=C(O)/C=C/C=C/c1ccc(C2=C(c3ccc(O)cc3)CCOc3cc(F)ccc32)cc1	9.1871	9.2600	CHEMBL4228617	confirmed	False	True
+ESR2	Q92731	ON=Cc1c(O)ccc(-c2ccc(O)c(F)c2)c1Cl	9.1739	9.2400	CHEMBL1782958	confirmed	False	True
+ESR2	Q92731	CC[C@@]12CCC(=O)C(C(F)(F)F)=C1c1ccc3[nH]ncc3c1C2	9.1549	9.2200	CHEMBL208929	confirmed	False	True
+ESR2	Q92731	Oc1ccc([C@@H]2Oc3ccc(O)cc3C3CCCC[C@@H]32)cc1	9.1367	9.2000	CHEMBL234462	confirmed	False	True
+ESR2	Q92731	CNC(=O)c1ccc2nc(C)c3nnc(-c4cc(OCC(C)C)ccc4Cl)n3c2c1	9.1361	9.2000	CHEMBL4168797	confirmed	False	True
+ESR2	Q92731	Oc1ccc2c(c1)O[C@H](c1ccc(OCCn3c(O)ccc3O)cc1)C1=C2CCOc2cc(O)ccc21	9.1308			not_in_chembl	False	False
+ESR2	Q92731	O=C(O)c1ccc([N+](=O)[O-])c2c1NC(c1ccccc1)C1CC=CC21	9.1249		CHEMBL1489669	no_activity_for_target	False	False
+ESR2	Q92731	Oc1ccc(C2=C(c3ccc(OCCN4CCCC4)cc3)c3ccc(F)cc3OCC2)cc1	9.0969	9.1500	CHEMBL471626	confirmed	False	True
+ESR2	Q92731	CC[C@@]12CCC(=O)C(Br)=C1c1ccc3[nH]ncc3c1C2	9.0969	9.1500	CHEMBL214034	confirmed	False	True
+ESR2	Q92731	Oc1ccc([C@@H]2Oc3ccc(O)cc3C3C[C@H](C(F)(F)F)C[C@@H]32)cc1	9.0969	9.3900	CHEMBL391532	confirmed	False	True
+ESR2	Q92731	CCOCc1cc(O)cc2c1O[C@@H](c1ccc(O)cc1)[C@H]1CCCC21	9.0731	9.1300	CHEMBL235386	confirmed	False	True
+ESR2	Q92731	N#C[C@@]1(Cc2ccc(O)cc2)CCc2cc(O)ccc21	9.0555	8.7800	CHEMBL4776568	confirmed	False	True
+ESR2	Q92731	CC[C@@]12CCC(=O)C(c3ccccc3)=C1c1ccc3[nH]ncc3c1C2	9.0458	9.1000	CHEMBL211349	confirmed	False	True
+ESR2	Q92731	CCC12C=c3c(ccc4[nH]nc(F)c34)=C1C(Br)C(=O)CC2	9.0458			not_in_chembl	False	False
+ESR2	Q92731	CCCC[C@@]12CCC(=O)C(C(F)(F)F)=C1c1ccc3[nH]ncc3c1C2	9.0458	9.1000	CHEMBL377644	confirmed	False	True
+ESR2	Q92731	C[C@]12CC[C@@H]3c4ccc(O)cc4CC[C@H]3[C@@H]1CC[C@@]2(O)c1cn(-c2ccc(O)cc2)nn1	9.0410	9.0900	CHEMBL4761096	confirmed	False	True
+ESR2	Q92731	COc1ccccc1N1CCN(C(=O)c2ccc3nc(-c4ccco4)c(-c4ccco4)nc3c2)CC1	9.0132	5.2200	CHEMBL1528726	activity_mismatch	False	False
+ESR2	Q92731	Oc1ccc([C@@H]2Oc3ccc(O)cc3C3CCCCC[C@@H]32)cc1	9.0088	9.0600	CHEMBL234463	confirmed	False	True
+ESR2	Q92731	CCCC[C@@]12CCC(=O)C(C(F)(F)F)=C1c1ccc3[nH]ncc3c1C2=O	9.0000	9.0500	CHEMBL425439	confirmed	False	True
+ESR2	Q92731	O=C1CC[C@@]2(CCC3CC3)C=c3c(ccc4[nH]ncc34)=C2C1Br	9.0000			not_in_chembl	False	False
+ESR2	Q92731	Oc1ccc(C2=C(c3ccc(C(F)(F)F)cc3)c3ccc(O)cc3C2)cc1	8.9957	9.0400	CHEMBL197080	confirmed	False	True
+ESR2	Q92731	N#CC1(Cc2ccc(O)c(F)c2)CCc2cc(O)ccc21	8.9957	9.0400	CHEMBL4789847	confirmed	False	True
+ESR2	Q92731	CCc1c(-c2ccc(O)cc2)oc(-c2ccc(O)cc2)c1-c1ccc(OC)cc1	8.9957	9.0400	CHEMBL315475	confirmed	False	True
+ESR2	Q92731	O=C(/C=C/c1ccc(C2=C(c3ccc(O)cc3)CCOc3cc(F)ccc32)cc1)Nc1ccccc1	8.9830	9.0300	CHEMBL4227113	confirmed	False	True
+ESR2	Q92731	CCCC[C@@]12CCC(=O)C(c3cccs3)=C1c1ccc3[nH]nnc3c1C2	8.9747	9.0200	CHEMBL214692	confirmed	False	True
+ESR2	Q92731	CCCC[C@@]12CCC(=O)C(C(F)(F)F)=C1c1ccc3[nH]nc(F)c3c1C2	8.9586	9.0000	CHEMBL384268	confirmed	False	True
+ESR2	Q92731	CCC[C@@H]1CC2C[C@]13C=c1cc(O)ccc1=C3C(C)C2=O	8.9586			not_in_chembl	False	False
+ESR2	Q92731	Oc1ccc(CC2CCc3cc(O)ccc32)cc1	8.9208	8.8900	CHEMBL4744050	confirmed	False	True
+ESR2	Q92731	CC(C)(Cc1ccc(O)cc1)c1ccc(O)cc1	8.9208	8.9600	CHEMBL576580	confirmed	False	True
+ESR2	Q92731	Oc1ccc(-c2cc(F)c3c(Cl)c(O)ccc3c2)cc1	8.9208	8.9600	CHEMBL193146	confirmed	False	True
+ESR2	Q92731	CCCC[C@@]12CCC(=O)C(CC)=C1c1ccc3[nH]ncc3c1C2	8.9208	8.9600	CHEMBL211816	confirmed	False	True
+ESR2	Q92731	Oc1ccc2c(c1)S[C@@H](c1ccccc1O)[C@@H](c1ccc(OCCN3CCCCC3)cc1)O2	8.9208	8.9600	CHEMBL91758	confirmed	False	True
+ESR2	Q92731	CC[C@@]12CCC(=O)C(Cl)=C1c1ccc3[nH]nc(F)c3c1C2	8.9208	8.9600	CHEMBL211887	confirmed	False	True
+ESR2	Q92731	O=Cc1cc(O)cc2ccc(-c3ccc(O)c(F)c3)cc12	8.9208	8.9600	CHEMBL192901	confirmed	False	True
+ESR2	Q92731	N#Cc1cc(O)cc2cc(-c3ccc(O)c(F)c3)oc12	8.9208	8.9600	CHEMBL185012	confirmed	False	True
+ESR2	Q92731	COc1c(C)c(Br)c2c(=O)oc3c(C)c(O)ccc3c2c1C	8.9031	8.9400	CHEMBL381697	confirmed	False	True
+ESR2	Q92731	Oc1ccc(-c2ccc3c(Cl)c(O)ccc3c2)c(F)c1	8.8861	8.9200	CHEMBL447837	confirmed	False	True
+ESR2	Q92731	C#Cc1cc(O)cc2ccc(-c3ccc(O)c(F)c3)cc12	8.8861	8.9200	CHEMBL191759	confirmed	False	True
+ESR2	Q92731	Cc1cc(O)ccc1-c1nc2cc(O)cc(Br)c2o1	8.8861	8.8500	CHEMBL187311	confirmed	False	True
+ESR2	Q92731	CC(Cc1ccc(O)cc1)c1ccc(O)cc1	8.8861	8.9200	CHEMBL554507	confirmed	False	True
+ESR2	Q92731	O=C(c1ccc(N2CCN(C(=O)c3ccc([N+](=O)[O-])cc3)CC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12	8.8633	8.9000	CHEMBL362020	confirmed	False	True
+ESR2	Q92731	CSC1=C(c2ccc(O)cc2)C(=O)c2ccc(O)cc21	8.8539	8.8900	CHEMBL192765	confirmed	False	True
+ESR2	Q92731	CCCCC12C=c3cc(O)ccc3=C1C(I)C(=O)CC2	8.8539			not_in_chembl	False	False
+ESR2	Q92731	Oc1ccc(C2=C(c3ccc(O)cc3)c3ccc(O)cc3C2)cc1	8.8539	8.8900	CHEMBL26865	confirmed	False	True
+ESR2	Q92731	Cc1ccc(C2=C(c3ccc(O)cc3)Cc3cc(O)ccc32)cc1	8.8539	8.8900	CHEMBL197188	confirmed	False	True
+ESR2	Q92731	Oc1ccc(C[C@@H]2CCc3cc(O)ccc32)cc1	8.8539	8.8900	CHEMBL4744050	confirmed	False	True
+ESR2	Q92731	Oc1ccc(-c2nc3cc(O)cc(Br)c3o2)c(F)c1	8.8239	8.8500	CHEMBL187915	confirmed	False	True
+ESR2	Q92731	Oc1ccc2cc(-c3noc4cc(O)ccc34)ccc2c1	8.8239	8.8500	CHEMBL187105	confirmed	False	True
+ESR2	Q92731	Oc1ccc(-c2nc3cc(O)cc(Br)c3o2)c(C(F)(F)F)c1	8.8239	8.8500	CHEMBL510754	confirmed	False	True
+ESR2	Q92731	C#CC(Cc1ccc(O)cc1)c1ccc(O)cc1	8.8239	8.8500	CHEMBL334798	confirmed	False	True
+ESR2	Q92731	Oc1ccc(C[C@H]2CCc3cc(O)ccc32)cc1	8.8239	8.8900	CHEMBL4744050	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@@H]2CC[C@@H](O)[C@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.9817	11.2596	CHEMBL3904235	activity_mismatch	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc([C@@H]3CC[C@@H](O)[C@H](F)C3)cnc2N)cc1F)c1cc(F)cc(I)c1	9.9788	11.3010	CHEMBL4111166	activity_mismatch	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)[C@@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.9767	11.2596	CHEMBL3904235	activity_mismatch	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cc(F)cc(I)c1	9.9742	11.2132	CHEMBL3980387	activity_mismatch	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)CC3)cnc2N)cc1F)c1cc(F)cc(I)c1	9.9720	11.1772	CHEMBL4107592	activity_mismatch	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.9718	11.1733	CHEMBL3895057	activity_mismatch	False	True
+MAPK1	P28482	CSc1cc(F)cc([C@@H](CO)NC(=O)c2ccc(-c3nc(C4CCOCC4)cnc3N)cc2F)c1	9.9655	11.0825	CHEMBL4114093	activity_mismatch	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)CC3)cnc2N)cc1F)c1cc(F)cc(I)c1	9.9651	11.0773	CHEMBL4108056	activity_mismatch	False	True
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cc(F)cc(CF)c4)c(F)c3)c2)cnn1C	9.9636	11.0580	CHEMBL4110872	activity_mismatch	False	True
+MAPK1	P28482	Nc1ncc([C@@H]2CCC(=O)NC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.9626	10.4100	CHEMBL3967502	confirmed	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cccc(Br)c1	9.9598	11.0132	CHEMBL4111422	activity_mismatch	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.9595	11.0101	CHEMBL4111944	activity_mismatch	False	True
+MAPK1	P28482	CSc1cccc([C@@H](CO)NC(=O)c2ccc(-c3nc(C4CCOCC4)cnc3N)cc2F)c1	9.9586	11.0000	CHEMBL4108345	activity_mismatch	False	True
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(CF)c2)c(F)c1	9.9586	11.0000	CHEMBL4114147	activity_mismatch	False	True
+MAPK1	P28482	O=C1c2cc(-c3ccnc(NC4CCOCC4)n3)cn2CCCN1[C@H](CO)c1cccc(Cl)c1	9.9586	11.0000	CHEMBL3608588	activity_mismatch	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc([C@@H]3CC[C@@H](O)[C@@H](F)C3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.9574	10.7100	CHEMBL3930522	close	False	True
+MAPK1	P28482	Cc1nn(C(F)F)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cc(F)cc(CF)c3)c(F)c2)c1	9.9570	10.9800	CHEMBL3957670	activity_mismatch	False	True
+MAPK1	P28482	CO[C@H]1CC[C@H](c2cnc(N)c(-c3ccc(C(=O)N[C@H](CN)c4cc(F)cc(I)c4)c(F)c3)n2)CC1	9.9559	10.9700	CHEMBL4107945	activity_mismatch	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)CC3)cnc2N)cc1F)c1cccc(I)c1	9.9547	10.9600	CHEMBL4109456	activity_mismatch	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cc(F)cc(Cl)c1	9.9512	10.9200	CHEMBL3923033	close	False	True
+MAPK1	P28482	Cc1nn(C)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cc(F)cc(CF)c3)c(F)c2)c1	9.9504	10.9200	CHEMBL4110508	close	False	True
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.9481	10.9000	CHEMBL4108076	close	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)[C@@H](F)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.9435	10.7500	CHEMBL3913471	close	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc([C@@H]3CC[C@@H](O)[C@H](F)C3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.9435	10.7100	CHEMBL3930522	close	False	True
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cc(F)cc(CF)c4)c(F)c3)c2)cnn1C(F)F	9.9431	10.8500	CHEMBL4109206	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)[C@@H](F)C3)cnc2N)cc1F)c1cc(F)cc(I)c1	9.9420	10.8400	CHEMBL3923915	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cc(F)cc(Cl)c1	9.9420	10.8400	CHEMBL4115307	close	False	True
+MAPK1	P28482	CSc1cc(F)cc([C@@H](CO)NC(=O)c2ccc(-c3nc(-c4cn(C)nc4C)cnc3N)cc2F)c1	9.9382	10.8200	CHEMBL4109955	close	False	True
+MAPK1	P28482	Cn1nncc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cc(F)cc(I)c3)c(F)c2)c1	9.9363	10.8000	CHEMBL4106909	close	False	True
+MAPK1	P28482	Cc1nn(C(F)F)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(CF)c3)c(F)c2)c1	9.9326	10.7700	CHEMBL4113157	close	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.9307	10.6200	CHEMBL3924033	close	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(I)c2)c(F)c1	9.9300	9.7100	CHEMBL4112672	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@@H]2CC[C@@H](O)[C@H](F)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.9296	10.7500	CHEMBL3913471	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)CC3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.9270	10.7400	CHEMBL4108962	close	False	True
+MAPK1	P28482	Nc1ncc([C@@H]2CC[C@@H](O)[C@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.9255	10.3500	CHEMBL3910107	confirmed	False	True
+MAPK1	P28482	O=C1c2cc(-c3ccnc(NC4CCOCC4)n3)cn2CCCN1[C@H](CO)c1cc(F)cc(Cl)c1	9.9245	10.7200	CHEMBL3608589	close	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)[C@H](F)C3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.9230	10.7100	CHEMBL3930522	close	False	True
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(CF)c2)c(F)c1	9.9219	10.7100	CHEMBL4106814	close	False	True
+MAPK1	P28482	CSc1cc(F)cc([C@@H](CO)NC(=O)c2ccc(-c3nc([C@H]4CC[C@H](O)CC4)cnc3N)cc2F)c1	9.9215	10.7000	CHEMBL4114593	close	False	True
+MAPK1	P28482	Cn1cc(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cc(F)cc(CF)c4)c(F)c3)c2)cn1	9.9212	10.7000	CHEMBL4113452	close	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cccc(Br)c1	9.9208	10.7000	CHEMBL4108313	close	False	True
+MAPK1	P28482	COc1ccc(CC2CC(=O)N(C)c3cc(-c4ccnc(Nc5ccnn5C)c4)cc4nnc2n34)c(F)c1	9.9208	10.6990	CHEMBL5843220	close	False	False
+MAPK1	P28482	CN1C(=O)C[C@H](Cc2cccc(Cl)c2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.9208	10.6990	CHEMBL5775750	close	False	False
+MAPK1	P28482	COc1ccc(CC2CC(=O)N(C)c3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)c(F)c1	9.9208	10.6990	CHEMBL5803733	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Oc2ccc(F)cc2)CCO3)n1	9.9208	10.7000	CHEMBL5908683	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@H](Cc2ccc(F)cc2)CCO3)n1	9.9208	9.5100	CHEMBL5786221	confirmed	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cc2ccc(F)cc2)CCO3)n1	9.9208	9.5100	CHEMBL5786221	confirmed	False	False
+MAPK1	P28482	COc1ccc(CC2CCOc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)cc1F	9.9208	10.6990	CHEMBL5759244	close	False	False
+MAPK1	P28482	COc1ccc(CC2CC(=O)N(C)c3cc(-c4ccnc(Nc5ccnn5C)c4)cc4nnc2n34)cc1	9.9208	8.1400	CHEMBL5775361	activity_mismatch	False	False
+MAPK1	P28482	COc1ccc(CC2CC(=O)N(C)c3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)cc1	9.9208	10.6990	CHEMBL5746928	close	False	False
+MAPK1	P28482	COc1ccc(CC2CNc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)cn1	9.9208	8.7300	CHEMBL5740708	activity_mismatch	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cc2ccc(F)c(F)c2)CO3)n1	9.9208	10.6990	CHEMBL5897995	close	False	False
+MAPK1	P28482	COc1ccc(CC2COc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)cc1	9.9208	10.7000	CHEMBL5797207	close	False	False
+MAPK1	P28482	COc1ccc(CC2COc3cc(-c4ccnc(Nc5ccnn5C)c4)cc4nnc2n34)cc1F	9.9208	10.6990	CHEMBL5806715	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)C(Cc2ccccc2)CO3)ccn1	9.9208	10.7000	CHEMBL5846324	close	False	False
+MAPK1	P28482	CN1C(=O)N(Cc2ccccc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.9208	10.7000	CHEMBL6045548	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cc2ccc(Cl)cc2)CCO3)n1	9.9208	9.1600	CHEMBL5763773	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(COCc2ccccc2)CCO3)n1	9.9208	10.6990	CHEMBL5960211	close	False	False
+MAPK1	P28482	CN1CC(Cc2ccc(F)cc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.9208	10.6990	CHEMBL5768951	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cc2ccccc2)CS3)n1	9.9208	9.1800	CHEMBL5981645	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cc2ccccc2)CO3)n1	9.9208	10.7000	CHEMBL5806164	close	False	False
+MAPK1	P28482	CC(C)CC1COc2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.9208	10.6990	CHEMBL5759648	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cc2ccc(Cl)c(F)c2)CN3)n1	9.9208	10.6990	CHEMBL5763481	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cc2ccc(F)cc2)CO3)n1	9.9208	10.6990	CHEMBL5802657	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cc2ccc(Cl)cc2)CO3)n1	9.9208	10.6990	CHEMBL5743637	close	False	False
+MAPK1	P28482	CN1CC(Cc2ccc(Cl)c(F)c2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.9208		CHEMBL5821135	no_activity_for_target	False	False
+MAPK1	P28482	COc1ccc(CC2COc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)cc1F	9.9208	10.6990	CHEMBL5891406	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)[C@H](Cn2cc(Cl)cn2)CCO3)ccn1	9.9208		CHEMBL5791749	no_activity_for_target	False	False
+MAPK1	P28482	COc1ccc(CC2CNc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)cc1	9.9208	9.2900	CHEMBL5821824	close	False	False
+MAPK1	P28482	CN1C(=O)CC(Cc2ccc(Cl)cc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)c4)cc1n23	9.9208	10.6990	CHEMBL5975497	close	False	False
+MAPK1	P28482	CN1CC(Cc2ccc(Cl)cc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)c4)cc1n23	9.9208	10.6990	CHEMBL5783945	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cc2ccc(Cl)cc2)CN3)n1	9.9208	10.6990	CHEMBL5834639	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cc2ccc(F)cc2)CN3)n1	9.9208	9.1400	CHEMBL5930359	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)C(Cn2cc(Cl)cn2)CCO3)ccn1	9.9208		CHEMBL5791749	no_activity_for_target	False	False
+MAPK1	P28482	COc1cccc(CC2COc3cc(-c4ccnc(Nc5ccnn5C)c4)cc4nnc2n34)c1	9.9208	9.1000	CHEMBL5752930	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cn2cc(C4CC4)cn2)CCO3)n1	9.9208	10.6990	CHEMBL5779995	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)[C@H](Cn2cc(C(F)(F)F)cn2)CCO3)ccn1	9.9208	10.6990	CHEMBL5824184	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)C(Cn2cc(C(F)(F)F)cn2)CCO3)ccn1	9.9208	10.6990	CHEMBL5824184	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Oc2ccccc2)CCO3)n1	9.9208	10.6990	CHEMBL5891967	close	False	False
+MAPK1	P28482	Cc1cc(C[C@@H]2CCOc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)on1	9.9208	7.7400	CHEMBL5815140	activity_mismatch	False	False
+MAPK1	P28482	COc1cccc(C[C@@H]2COc3cc(-c4ccnc(Nc5ccnn5C)c4)cc4nnc2n34)c1	9.9208	9.1000	CHEMBL5752930	close	False	False
+MAPK1	P28482	CN1C(=O)N(Cc2cccc(Cl)c2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.9208	10.6990	CHEMBL5771293	close	False	False
+MAPK1	P28482	CCC(C)CC1COc2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.9208	10.6990	CHEMBL5806286	close	False	False
+MAPK1	P28482	CCC(C#N)C1CCOc2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.9208	10.0900	CHEMBL5805433	confirmed	False	False
+MAPK1	P28482	Cc1csc(C[C@@H]2CCOc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)n1	9.9208	10.6990	CHEMBL5769529	close	False	False
+MAPK1	P28482	Clc1cnn(CC2CCOc3cc(-c4ccnc(NC5CCOCC5)n4)cc4nnc2n34)c1	9.9208	9.8500	CHEMBL5927313	confirmed	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Oc2ccc(F)c(F)c2)CCO3)n1	9.9208	8.5900	CHEMBL5821277	activity_mismatch	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)C(Cc2ccc(F)cc2)CO3)ccn1	9.9208	10.6990	CHEMBL5906191	close	False	False
+MAPK1	P28482	CN1C(=O)CC(Cc2ccccc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.9208	10.1400	CHEMBL5744381	confirmed	False	False
+MAPK1	P28482	CN1C(=O)CC(Cc2ccc(Cl)cc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.9208	10.6990	CHEMBL5790743	close	False	False
+MAPK1	P28482	CCN1CC(Cc2ccccc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.9208	10.6990	CHEMBL5884946	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)C(c2ccccc2)CN3)ccn1	9.9208	10.6990	CHEMBL5850910	close	False	False
+MAPK1	P28482	Cc1csc(O[C@@H]2CCOc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)n1	9.9208	9.9900	CHEMBL5844718	confirmed	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@@H](Cc2ccc(F)cc2)CN3)n1	9.9208	9.1400	CHEMBL5930359	close	False	False
+MAPK1	P28482	Clc1cnn(C[C@H]2CCOc3cc(-c4ccnc(NC5CCOCC5)n4)cc4nnc2n34)c1	9.9208	9.8500	CHEMBL5927313	confirmed	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@@H](Oc2ccc(F)c(F)c2)CCO3)n1	9.9208	8.5900	CHEMBL5821277	activity_mismatch	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@@H](Oc2ccc(F)cc2)CCO3)n1	9.9208	10.7000	CHEMBL5908683	close	False	False
+MAPK1	P28482	COc1ccc(C[C@H]2CC(=O)N(C)c3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)cc1	9.9208	10.6990	CHEMBL5746928	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)[C@@H](Cc2ccc(F)cc2)CO3)ccn1	9.9208	10.6990	CHEMBL5906191	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@@H](Cn2cc(C4CC4)cn2)CCO3)n1	9.9208	10.6990	CHEMBL5779995	close	False	False
+MAPK1	P28482	CN1C(=O)C[C@H](Cc2ccc(Cl)cc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)c4)cc1n23	9.9208	10.6990	CHEMBL5975497	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@@H](Cc2ccc(Cl)cc2)CO3)n1	9.9208	10.6990	CHEMBL5743637	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@@H](Cc2ccc(F)cc2)CO3)n1	9.9208	10.6990	CHEMBL5802657	close	False	False
+MAPK1	P28482	CC(C)C[C@H]1COc2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.9208	10.6990	CHEMBL5759648	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)[C@@H](Cc2ccc(Cl)cc2)CO3)ccn1	9.9208	10.6990	CHEMBL5743467	close	False	False
+MAPK1	P28482	COc1ccc(C[C@H]2COc3cc(-c4ccnc(Nc5ccnn5C)c4)cc4nnc2n34)cc1F	9.9208	10.6990	CHEMBL5806715	close	False	False
+MAPK1	P28482	COc1ccc(C[C@H]2COc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)cc1	9.9208	10.7000	CHEMBL5797207	close	False	False
+MAPK1	P28482	CCC(C)C[C@H]1COc2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.9208	10.6990	CHEMBL5806286	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@@H](Cc2ccc(F)c(F)c2)CO3)n1	9.9208	10.6990	CHEMBL5897995	close	False	False
+MAPK1	P28482	COc1ccc(C[C@@H]2CNc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)cc1	9.9208	9.2900	CHEMBL5821824	close	False	False
+MAPK1	P28482	COc1ccc(C[C@H]2CC(=O)N(C)c3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)c(F)c1	9.9208	10.6990	CHEMBL5803733	close	False	False
+MAPK1	P28482	CN1C(=O)C[C@H](Cc2ccc(Cl)cc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.9208	10.6990	CHEMBL5790743	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@@H](Cc2ccc(Cl)c(F)c2)CN3)n1	9.9208	10.6990	CHEMBL5763481	close	False	False
+MAPK1	P28482	CCN1C[C@H](Cc2ccccc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.9208	10.6990	CHEMBL5884946	close	False	False
+MAPK1	P28482	COc1ccc(CC2CNc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)cc1F	9.9208	10.6990	CHEMBL5884408	close	False	False
+MAPK1	P28482	CC(C)CC1CNc2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.9208	10.6990	CHEMBL5923905	close	False	False
+MAPK1	P28482	CN1CC(Cc2ccccc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.9208	8.3000	CHEMBL5886523	activity_mismatch	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(ncc4c2)C(Cc2ccc(Cl)cc2)CN3)ccn1	9.9208	10.6990	CHEMBL5806309	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)C(Cc2ccccc2)CN3)ccn1	9.9208	9.1500	CHEMBL5743783	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@@H](Cc2ccccc2)CS3)n1	9.9208	9.1800	CHEMBL5981645	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@@H](Cc2ccccc2)CO3)n1	9.9208	10.7000	CHEMBL5806164	close	False	False
+MAPK1	P28482	CC(=O)NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.9205	10.7000	CHEMBL4108926	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@@H]3CC[C@@H](O)[C@H](F)C3)cnc2N)cc1F)c1cc(F)cc(I)c1	9.9190	10.8400	CHEMBL3923915	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](OC)CC3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.9190	10.6900	CHEMBL4108747	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.9179	10.6800	CHEMBL4110468	close	False	True
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(CF)c4)c(F)c3)c2)cnn1C(F)F	9.9179	10.6800	CHEMBL4113751	close	False	True
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(C(F)F)c2)c(F)c1	9.9179	10.6800	CHEMBL4113025	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)CC3)cnc2N)cc1F)c1cccc(Br)c1	9.9176	10.6800	CHEMBL4112962	close	False	True
+MAPK1	P28482	Cn1nccc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CN)c3cccc(Cl)c3)c(F)c2)c1	9.9176	10.6800	CHEMBL4107676	close	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cccc(Cl)c1	9.9172	10.6800	CHEMBL3928081	close	False	True
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Cl)c2)c(F)c1	9.9129	10.6500	CHEMBL4112079	close	False	True
+MAPK1	P28482	Nc1ncc(C2CCC(O)CC2)nc1-c1ccc(C(=O)N[C@@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.9103	10.6200	CHEMBL3924033	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@@H]3CC[C@@H](O)[C@@H](F)C3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.9101	10.5800	CHEMBL3909517	close	False	True
+MAPK1	P28482	CC(C)C[C@H]1CCOc2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.9101	10.6400	CHEMBL5789951	close	False	False
+MAPK1	P28482	CN1C(=O)N[C@H](Cc2ccc(Cl)cc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.9101	10.6400	CHEMBL5927076	close	False	False
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)c2)cnn1C	9.9090	9.9400	CHEMBL3905175	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(CCl)c2)c(F)c1	9.9059	10.6200	CHEMBL4108246	close	False	True
+MAPK1	P28482	Cc1nn(C(F)F)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(Cl)c3)c(F)c2)c1	9.9048	10.6100	CHEMBL4106578	close	False	True
+MAPK1	P28482	CCNC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cccc(Br)c1	9.9038	10.6100	CHEMBL4113613	close	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@@H](CCC(F)(F)F)CCO3)n1	9.9031	10.6000	CHEMBL5834243	close	False	False
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(CF)c4)c(F)c3)c2)cnn1C	9.9003	10.5900	CHEMBL4114268	close	False	True
+MAPK1	P28482	O=C1c2cc(-c3ccnc(N[C@H]4[C@@H]5COC[C@@H]54)n3)cn2CCCN1[C@H](CO)c1cccc(Cl)c1	9.8996	10.5900	CHEMBL3608586	close	False	True
+MAPK1	P28482	Nc1ncc([C@@H]2CC[C@@H](O)C(F)(F)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.8993	10.4000	CHEMBL3971970	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)[C@@H](F)C3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.8993	10.5800	CHEMBL3909517	close	False	True
+MAPK1	P28482	CSc1cccc([C@@H](CO)NC(=O)c2ccc(-c3nc([C@H]4CC[C@H](O)CC4)cnc3N)cc2F)c1	9.8965	10.5700	CHEMBL4106863	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cccc(Cl)c1	9.8921	10.5500	CHEMBL3919189	close	False	True
+MAPK1	P28482	Cc1nn(C)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(CF)c3)c(F)c2)c1	9.8904	10.5400	CHEMBL4107705	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CCC[C@@H](O)C3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.8891	10.5400	CHEMBL3901227	close	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.8861	10.5200	CHEMBL3923999	close	False	True
+MAPK1	P28482	CCNC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.8861	10.5200	CHEMBL4114349	close	False	True
+MAPK1	P28482	COc1cccc(C[C@H]2CNc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)n1	9.8861	10.5200	CHEMBL5776694	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)C(Cc2ccc(F)c(F)c2)CO3)ccn1	9.8861	10.5200	CHEMBL5886804	close	False	False
+MAPK1	P28482	COc1cccc(CC2CNc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)n1	9.8861	10.5200	CHEMBL5776694	close	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)[C@@H](Cc2ccc(F)c(F)c2)CO3)ccn1	9.8861	10.5200	CHEMBL5886804	close	False	False
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cc(F)cc(C(F)F)c4)c(F)c3)c2)cnn1C	9.8834	10.5100	CHEMBL4114641	close	False	True
+MAPK1	P28482	Cn1nncc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cc(F)cc(Br)c3)c(F)c2)c1	9.8827	10.5100	CHEMBL4107068	close	False	True
+MAPK1	P28482	Cc1nn(C(F)F)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cc(F)cc(C(F)F)c3)c(F)c2)c1	9.8821	10.5100	CHEMBL4109712	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)[C@H](F)C3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.8804	10.5800	CHEMBL3909517	close	False	True
+MAPK1	P28482	O=C1c2cc(-c3ccnc(NC4CCOCC4)n3)cn2CCCN1[C@H](CO)c1ccccc1	9.8761	10.4800	CHEMBL3608462	close	False	True
+MAPK1	P28482	Nc1ncc(C2CCC(O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.8731	10.6200	CHEMBL3924033	close	False	True
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Br)c2)c(F)c1	9.8719	10.4600	CHEMBL4109708	close	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Oc2cncc(F)c2)CCO3)n1	9.8697	7.5900	CHEMBL5743180	activity_mismatch	False	False
+MAPK1	P28482	O=C1c2cc(-c3ccnc(NC4CCOCC4F)n3)cn2CCCN1[C@H](CO)c1cccc(Cl)c1	9.8697	10.4600	CHEMBL3608464	close	False	True
+MAPK1	P28482	COc1ccc(C[C@@H]2CN(C)c3cc(-c4ccnc(Nc5ccnn5C)c4)cc4nnc2n34)cc1	9.8665	10.4400	CHEMBL5820291	close	False	False
+MAPK1	P28482	Nc1ncc(C2CCC(=O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.8665	10.4400	CHEMBL4108238	close	False	True
+MAPK1	P28482	COc1ccc(CC2CN(C)c3cc(-c4ccnc(Nc5ccnn5C)c4)cc4nnc2n34)cc1	9.8665	10.4400	CHEMBL5820291	close	False	False
+MAPK1	P28482	Nc1ncc([C@@H]2CC[C@@H](O)[C@@H](F)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.8655	10.2900	CHEMBL3900490	confirmed	False	True
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CN)c4cccc(Cl)c4)c(F)c3)c2)cnn1C	9.8652	10.4400	CHEMBL4113846	close	False	True
+MAPK1	P28482	Cc1nn(C)c(C)c1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CN)c3cccc(Cl)c3)c(F)c2)c1	9.8652	10.4400	CHEMBL4111641	close	False	True
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(C(F)F)c4)c(F)c3)c2)cnn1C	9.8630	10.4300	CHEMBL4115643	close	False	True
+MAPK1	P28482	CCC[C@@H]1COc2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.8601	7.7100	CHEMBL5842683	activity_mismatch	False	False
+MAPK1	P28482	Nc1ncc([C@H]2CCC(=O)NC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.8570	10.4100	CHEMBL3967502	close	False	True
+MAPK1	P28482	CC(C)[C@H]1CNc2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.8570	10.4100	CHEMBL5891541	close	False	False
+MAPK1	P28482	COC1CCC(c2cnc(N)c(-c3ccc(C(=O)N[C@H](CN)c4cccc(Cl)c4)c(F)c3)n2)CC1	9.8551	10.4000	CHEMBL3948885	close	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)C(F)(F)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.8548	10.4000	CHEMBL3971970	close	False	True
+MAPK1	P28482	CC(C)Nc1cc(-c2c[nH]c(C(=O)N[C@H](CO)c3cccc(Cl)c3)c2)c(Cl)cn1	9.8539	9.5229	CHEMBL3590106	confirmed	False	True
+MAPK1	P28482	O=C1c2cc(-c3ccnc(NC4CC5(COC5)C4)n3)cn2CCCN1[C@H](CO)c1ccccc1	9.8539	10.4000	CHEMBL3608463	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](OC)CC3)cnc2N)cc1F)c1cccc(Br)c1	9.8536	10.4000	CHEMBL4112935	close	False	True
+MAPK1	P28482	Nc1ncc([C@@H]2CC[C@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.8529	10.5200	CHEMBL3923999	close	False	True
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)c2)cnn1C(F)F	9.8444	10.3700	CHEMBL4110779	close	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(C(F)F)c2)c(F)c1	9.8431	10.3600	CHEMBL4112519	close	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)[C@@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.8398	10.3500	CHEMBL3910107	close	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)CC3)cnc2N)cc1F)c1cccc(Cl)c1	9.8380	10.3400	CHEMBL4107391	close	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)CC3)cnc2N)cc1F)c1cccc(Cl)c1	9.8348	10.3300	CHEMBL4112340	confirmed	False	True
+MAPK1	P28482	Cc1nn(C)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cc(F)cc(C(F)F)c3)c(F)c2)c1	9.8336	10.3300	CHEMBL4112506	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCC(O)C(F)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.8330	10.2900	CHEMBL3900490	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCCC(O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.8316	10.2100	CHEMBL4111888	confirmed	False	True
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cc(F)cc(C(F)F)c4)c(F)c3)c2)cnn1C(F)F	9.8292	10.3200	CHEMBL4113849	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Br)c2)c(F)c1	9.8283	10.3100	CHEMBL4112430	confirmed	False	True
+MAPK1	P28482	Cn1nncc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(Br)c3)c(F)c2)c1	9.8277	10.3100	CHEMBL4113172	confirmed	False	True
+MAPK1	P28482	Cc1nn(C)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CN)c3cccc(Cl)c3)c(F)c2)c1	9.8248	10.0500	CHEMBL3894824	confirmed	False	True
+MAPK1	P28482	O=C1c2cc(-c3ccnc(NC4CCOCC4)n3)cn2C[C@@H](F)CN1[C@H](CO)c1cccc(Cl)c1	9.8239	10.3000	CHEMBL3608587	confirmed	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCCCC3)cnc2N)cc1F)c1cccc(Cl)c1	9.8225	10.3000	CHEMBL4115289	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)[C@@H](F)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.8210	10.2900	CHEMBL3900490	confirmed	False	True
+MAPK1	P28482	CCC(C#N)[C@H]1CCOc2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.8210	10.0900	CHEMBL5805433	confirmed	False	False
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@@H]3CCC[C@H](O)C3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.8077	10.5400	CHEMBL3901227	close	False	True
+MAPK1	P28482	COC(=O)N[C@H]1CC[C@H](c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cc(F)cc(Br)c4)c(F)c3)n2)CC1	9.8072	10.2500	CHEMBL4108498	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@@H]2CC[C@@H](O)[C@H](F)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.8038	10.2900	CHEMBL3900490	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@@H]2CC[C@@H](O)C(F)(F)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.8011	10.0600	CHEMBL3938437	confirmed	False	True
+MAPK1	P28482	Cn1nccc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(CF)c3)c(F)c2)c1	9.7962	10.2200	CHEMBL4109328	confirmed	False	True
+MAPK1	P28482	CCNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)CC3)cnc2N)cc1F)c1cccc(Br)c1	9.7913	10.2100	CHEMBL4110654	confirmed	False	True
+MAPK1	P28482	Cn1nncc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cc(F)cc(C(F)F)c3)c(F)c2)c1	9.7908	10.2100	CHEMBL4115387	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3c(s2)C(C)(C)N(CCN2CCOCC2)C3=O)n1	9.7852	10.1900	CHEMBL4650285	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cccc(Cl)c1	9.7838	10.1900	CHEMBL4114038	confirmed	False	True
+MAPK1	P28482	Cc1cccc([C@@H](CO)NC(=O)c2ccc(-c3nc(C4CCOCC4)cnc3N)cc2F)c1	9.7821	9.9800	CHEMBL4114445	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@@H]2CC[C@@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.7737	10.5200	CHEMBL3923999	close	False	True
+MAPK1	P28482	CO[C@H]1CC[C@H](c2cnc(N)c(-c3ccc(C(=O)N[C@H](CN)c4cccc(Br)c4)c(F)c3)n2)CC1	9.7724	10.1600	CHEMBL4108368	confirmed	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](OC)CC3)cnc2N)cc1F)c1cccc(Cl)c1	9.7696	10.1500	CHEMBL4111042	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)CC2)cc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.7693	10.1500	CHEMBL4107018	confirmed	False	True
+MAPK1	P28482	Cc1nn(C)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(C(F)F)c3)c(F)c2)c1	9.7678	10.1500	CHEMBL4108955	confirmed	False	True
+MAPK1	P28482	CN1C(=O)C[C@H](Cc2ccccc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)c4)cc1n23	9.7620	10.1400	CHEMBL5893541	confirmed	False	False
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H](CNCCF)c2cc(F)cc(Br)c2)c(F)c1	9.7587	10.1300	CHEMBL4109474	confirmed	False	True
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(C(F)F)c4)c(F)c3)c2)cnn1C(F)F	9.7582	10.1300	CHEMBL4112865	confirmed	False	True
+MAPK1	P28482	COC[C@H]1Cn2cc(-c3nc(Nc4ccnn4C)ncc3C)nc2C(=O)N1Cc1ccc(F)c(F)c1	9.7568	9.5229	CHEMBL4482864	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@@H](Cn2cc(Cl)cn2)CCO3)n1	9.7557	9.8800	CHEMBL5768479	confirmed	False	False
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@@H]3CC[C@@H](O)[C@H](F)C3)cnc2N)cc1F)c1cccc(Br)c1	9.7545	10.1200	CHEMBL4108572	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCCC(O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Br)c2)c(F)c1	9.7535	9.9100	CHEMBL4108154	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@H](Cn2cc(Cl)cn2)CCO3)n1	9.7471	9.8800	CHEMBL5768479	confirmed	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cn2cc(Cl)cn2)CCO3)n1	9.7471	9.8800	CHEMBL5768479	confirmed	False	False
+MAPK1	P28482	Clc1cnn(C[C@@H]2CCOc3cc(-c4ccnc(NC5CCOCC5)n4)cc4nnc2n34)c1	9.7447	9.8500	CHEMBL5927313	confirmed	False	False
+MAPK1	P28482	CS(=O)(=O)c1cccc([C@@H](CO)NC(=O)c2ccc(-c3nc(C4CCOCC4)cnc3N)cc2F)c1	9.7405	9.8900	CHEMBL4114358	confirmed	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)C(F)(F)C3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.7392	10.0800	CHEMBL3895902	confirmed	False	True
+MAPK1	P28482	Cn1nccc1C[C@H]1CCOc2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.7328	10.0700	CHEMBL5798231	confirmed	False	False
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)C(F)(F)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.7277	10.0600	CHEMBL3938437	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@H](CC(F)(F)F)CCO3)n1	9.7258	9.7800	CHEMBL5959724	confirmed	False	False
+MAPK1	P28482	Cc1nn(C)cc1-c1cnc(N)c(-c2ccc(C(=O)NC(CN)c3cccc(Cl)c3)c(F)c2)c1	9.7210	10.0500	CHEMBL3894824	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.7181	9.9500	CHEMBL4106790	confirmed	False	True
+MAPK1	P28482	Cc1nn(C)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(Cl)c3)c(F)c2)c1	9.7144	9.8400	CHEMBL4115558	confirmed	False	True
+MAPK1	P28482	Cn1nncc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(C(F)F)c3)c(F)c2)c1	9.7138	10.0300	CHEMBL4109028	confirmed	False	True
+MAPK1	P28482	Cn1ccc(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)c2)n1	9.7129	10.0300	CHEMBL4114979	confirmed	False	True
+MAPK1	P28482	COC(=O)NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.7115	10.0300	CHEMBL4110708	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCCC(O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.7097	9.6500	CHEMBL3893928	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@@H](O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.7086	11.0101	CHEMBL4111944	activity_mismatch	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1C(CO)c1cc(F)cc(Cl)c1	9.6990	10.0000	CHEMBL3409585	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2nc(NC3CCOCC3)ncc2F)ccn1C(CO)c1ccc(Cl)c(F)c1	9.6990	10.0000	CHEMBL3409600	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1C(CO)c1ccc(Cl)cc1	9.6990	10.0000	CHEMBL3409573	confirmed	False	True
+MAPK1	P28482	COc1cccc(C(CO)n2ccc(-c3ccnc(NC4CCOCC4)n3)cc2=O)c1	9.6990	10.0000	CHEMBL3409578	confirmed	False	True
+MAPK1	P28482	CN1C(=O)CC(Cc2ccc(Cl)cn2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.6946	9.9900	CHEMBL5840701	confirmed	False	False
+MAPK1	P28482	CN1C(=O)C[C@@H](Cc2ccc(Cl)cn2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.6946	9.9900	CHEMBL5840701	confirmed	False	False
+MAPK1	P28482	Cc1csc(O[C@H]2CCOc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)n1	9.6925	9.9900	CHEMBL5844718	confirmed	False	False
+MAPK1	P28482	Cc1cccc([C@@H](CO)NC(=O)c2ccc(-c3cc(-c4cn(C)nc4C)cnc3N)cc2F)c1	9.6916	9.7700	CHEMBL4113197	confirmed	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc([C@@H]3CC[C@@H](O)[C@H](F)C3)cnc2N)cc1F)c1cc(F)cc(Br)c1	9.6904	10.5800	CHEMBL3909517	close	False	True
+MAPK1	P28482	C[C@@H](NC(=O)c1ccc(-c2nc(C3CCCCC3)cnc2N)cc1F)c1cc(F)cc(S(C)(=O)=O)c1	9.6899	9.8300	CHEMBL4107587	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCC(CO)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.6889	9.7900	CHEMBL4113430	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCC(F)(F)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.6882	9.9800	CHEMBL4109811	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(C(F)F)c2)c(F)c1	9.6882	9.9800	CHEMBL4108467	confirmed	False	True
+MAPK1	P28482	Cn1cc(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cc(F)cc(C(F)F)c4)c(F)c3)c2)cn1	9.6861	9.9700	CHEMBL4115079	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)C(Cc2ccc(F)c(Cl)c2)CO3)ccn1	9.6757	9.9600	CHEMBL5768349	confirmed	False	False
+MAPK1	P28482	Cn1nncc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cc(F)cc(Cl)c3)c(F)c2)c1	9.6740	9.7700	CHEMBL4113136	confirmed	False	True
+MAPK1	P28482	CCn1cc(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)c2)cn1	9.6732	9.8100	CHEMBL4110638	confirmed	False	True
+MAPK1	P28482	CN1C(=O)N(Cc2cc(F)cc(F)c2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.6716	9.9500	CHEMBL6055966	confirmed	False	False
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCCC(O)C3)cnc2N)cc1F)c1cccc(Cl)c1	9.6701	9.8200	CHEMBL4111789	confirmed	False	True
+MAPK1	P28482	[N-]=[N+]=NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cccc(Cl)c1	9.6676	9.9400	CHEMBL4112181	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCC(O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(CF)c2)c(F)c1	9.6636	9.6800	CHEMBL3891114	confirmed	False	True
+MAPK1	P28482	COCCn1cc(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)c2)cn1	9.6610	9.8000	CHEMBL4115538	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCCCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.6458	9.7300	CHEMBL4106511	confirmed	False	True
+MAPK1	P28482	CC(C)CC1CC(=O)N(C)c2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.6345	7.2800	CHEMBL5775551	activity_mismatch	False	False
+MAPK1	P28482	Nc1ncc([C@@H]2CC[C@H](O)[C@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.6289	11.2596	CHEMBL3904235	activity_mismatch	False	True
+MAPK1	P28482	CO[C@H]1CC[C@H](c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cc(F)cc(Br)c4)c(F)c3)n2)C[C@@H]1O	9.6271	9.8700	CHEMBL3957062	confirmed	False	True
+MAPK1	P28482	Cn1cc(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cc(F)cc(Cl)c4)c(F)c3)c2)cn1	9.6258	9.7200	CHEMBL4111998	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@@H](O)[C@@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.6253	11.2596	CHEMBL3904235	activity_mismatch	False	True
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2ccc(F)c(Cl)c2)c(F)c1	9.6216	9.8600	CHEMBL4113895	confirmed	False	True
+MAPK1	P28482	Cn1cc(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)c2)cn1	9.6168	9.7200	CHEMBL4109063	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(I)c2)c(F)c1	9.6126	10.5200	CHEMBL3923999	close	False	True
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](C)c4cc(F)cc(S(C)(=O)=O)c4)c(F)c3)c2)cnn1C(F)F	9.6091	9.8400	CHEMBL4111507	confirmed	False	True
+MAPK1	P28482	Cn1nncc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(Cl)c3)c(F)c2)c1	9.6077	9.6400	CHEMBL4109307	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2=CCOCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.6065	9.6600	CHEMBL4106675	confirmed	False	True
+MAPK1	P28482	CCCC1CC(=O)N(C)c2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.6038	9.8300	CHEMBL5820605	confirmed	False	False
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)C(Cc2cccc(Cl)c2)CO3)ccn1	9.6038	9.8300	CHEMBL5843088	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2cc(-c3cnnn3C)cnc2N)ccc1C(=O)N[C@H](CO)c1cccc(Cl)c1	9.6038	9.8300	CHEMBL4111635	confirmed	False	True
+MAPK1	P28482	Cc1nn(C)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(Cl)c3)c(F)c2)n1	9.5991	9.6100	CHEMBL3948642	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCC(O)CC2)nc1-c1ccc(C(=O)N[C@H]2C[C@@H]2c2ccccc2)c(F)c1	9.5986	9.8200	CHEMBL3943715	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H](CN)c4ccccc4)ncc23)ccn1	9.5979	7.5400	CHEMBL3654800	activity_mismatch	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc(=O)n(C)c3)c2cn1)c1ccc(F)cc1	9.5870	9.8000	CHEMBL3654722	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4cccc(S(C)(=O)=O)c4)ncc23)ccn1	9.5865	9.8000	CHEMBL3663068	confirmed	False	True
+MAPK1	P28482	O=C1c2cc(-c3ccnc(NC4CCOCC4)n3)cn2CCN1[C@H](CO)c1cccc(Cl)c1	9.5850	9.8000	CHEMBL3608591	confirmed	False	True
+MAPK1	P28482	COc1ccc(C[C@@H]2CNc3cc(-c4ccnc(Nc5ccnn5C)n4)cc4nnc2n34)cc1F	9.5759	10.6990	CHEMBL5884408	activity_mismatch	False	False
+MAPK1	P28482	Nc1ncc(-c2ccncc2)cc1-c1ccc(C(=O)N[C@H](CO)c2ccccc2)c(F)c1	9.5751	9.7800	CHEMBL4109681	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(CC(F)(F)F)CCO3)n1	9.5719	9.7800	CHEMBL5959724	confirmed	False	False
+MAPK1	P28482	O=C(N[C@H](CO)c1ccc(Cl)c(F)c1)c1ccc2cnc(NC3CCOCC3)nc2n1	9.5686	9.7700	CHEMBL5428299	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@@H]4CN(C)C[C@H]4c4ccccc4F)ncc23)ccn1	9.5672	9.1800	CHEMBL3654811	confirmed	False	True
+MAPK1	P28482	CN1C(=O)N[C@H](Cc2ccc(F)cc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.5638	9.7600	CHEMBL5958147	confirmed	False	False
+MAPK1	P28482	CS(=O)(=O)NC1CCC(c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)n2)CC1	9.5563	9.5900	CHEMBL3927870	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@@H]2CCC(F)(F)[C@@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.5544	9.6600	CHEMBL3934781	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H]2C[C@@H]2c2ccccc2)c(F)c1	9.5482	9.6800	CHEMBL3949051	confirmed	False	True
+MAPK1	P28482	Cn1nncc1-c1cnc(N)c(-c2cc(F)c(C(=O)N[C@H](CO)c3cccc(Cl)c3)c(F)c2)c1	9.5482	9.7400	CHEMBL4114294	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1ncc2c(-c3ccncc3)[nH]nc2c1F)c1ccccc1	9.5471	9.7400	CHEMBL3663002	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](F)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.5467	9.4300	CHEMBL4112116	confirmed	False	True
+MAPK1	P28482	COC(=O)NC1CCC(c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)n2)CC1	9.5346	9.5500	CHEMBL3899872	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@@H](O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(I)c2)c(F)c1	9.5331	9.7100	CHEMBL4112672	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@@H]4COC[C@H]4c4ccccc4)ncc23)ccn1	9.5325	9.7100	CHEMBL3663034	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1C(CO)c1cc(Cl)cc(Cl)c1	9.5229	9.7000	CHEMBL3409584	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2nc(NC3CCOCC3)ncc2Cl)ccn1C(CO)c1ccc(Cl)c(F)c1	9.5229	9.7000	CHEMBL3409599	confirmed	False	True
+MAPK1	P28482	C[C@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCOCC3)c2cn1)c1ccc(F)cc1	9.5229	9.7000	CHEMBL3985624	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCOCC3)c2cn1)c1ccc(F)cc1	9.5229	9.7000	CHEMBL3985624	confirmed	False	True
+MAPK1	P28482	CN1C[C@H](c2ccccc2)[C@H](NC(=O)Nc2cc3[nH]nc(N4CCOCC4)c3cn2)C1	9.5229	7.7000	CHEMBL4109263	activity_mismatch	False	True
+MAPK1	P28482	Cn1cc2c(n1)CCN(c1[nH]nc3cc(NC(=O)N[C@@H](c4ccc(F)cc4)C(C)(C)O)ncc13)C2	9.5229	9.7000	CHEMBL3967428	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1[C@H](CO)c1cccc(F)c1	9.5229	8.8900	CHEMBL3409575	close	False	True
+MAPK1	P28482	O=c1cc(N2CCc3[nH]nc(-c4ccncc4)c3C2)ccn1Cc1cccc(Br)c1	9.5229	9.7000	CHEMBL3604851	confirmed	False	True
+MAPK1	P28482	Cn1cc(-c2cnc(N)c(-c3ccc(C(=O)NC(CN)c4cccc(Cl)c4)c(F)c3)c2)cn1	9.5229	9.7000	CHEMBL3939292	confirmed	False	True
+MAPK1	P28482	CNC[C@@H](NC(=O)c1ccc(-c2nc(C3CCCC(O)C3)cnc2N)cc1F)c1cccc(Cl)c1	9.5157	9.6700	CHEMBL4111399	confirmed	False	True
+MAPK1	P28482	Nc1ncc(-c2ccncc2)nc1-c1ccc(C(=O)N[C@H](CO)c2ccccc2)c(F)c1	9.5150	9.6800	CHEMBL4111855	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@H](Cc2ccc(Cl)cc2)CN3)n1	9.5031	10.6990	CHEMBL5834639	activity_mismatch	False	False
+MAPK1	P28482	Cc1cnc(Nc2ccnn2C)nc1-c1cc2n(c1)CCN(Cc1cccc(Cl)c1)C2=O	9.5017	9.5229	CHEMBL4470113	confirmed	False	True
+MAPK1	P28482	Cc1cccc([C@@H](CO)NC(=O)c2ccc(-c3cc(-c4ccnn4C)cnc3N)cc2F)c1	9.4989	9.6600	CHEMBL4107341	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@@H](O)[C@@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.4976	10.3500	CHEMBL3910107	close	False	True
+MAPK1	P28482	O=C(N[C@H](CO)c1ccc(Cl)c(F)c1)c1ccc2cnc(NC3CCOCC3)nc2c1	9.4949	9.6600	CHEMBL5399703	confirmed	False	False
+MAPK1	P28482	Nc1ncc([C@H]2CCC(F)(F)[C@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.4935	9.6600	CHEMBL3934781	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)c1ccc(-c2cc(-c3cnnn3C)cnc2N)cc1F)c1cccc(Cl)c1	9.4935	9.6600	CHEMBL4115339	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc4nnn(C)c4c3)c2cn1)c1ccccc1	9.4931	9.6500	CHEMBL3663134	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CCC[C@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.4908	9.6500	CHEMBL3893928	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccnc(C)c3)c2cn1)c1ccc(F)cc1	9.4908	8.0100	CHEMBL3658691	activity_mismatch	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc4nn(C)cc4c3)c2cn1)c1ccccc1	9.4904	9.6500	CHEMBL3663093	confirmed	False	True
+MAPK1	P28482	COC(=O)NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cccc(Br)c1	9.4881	9.6500	CHEMBL4112792	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@@H]4CN(C)C[C@H]4c4ccccc4)ncc23)ccn1	9.4874	9.6300	CHEMBL3654809	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc(F)cc3)c2c(CO)n1)c1ccccc1	9.4815	9.6400	CHEMBL5742310	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NC(CN)c4ccccc4)ncc23)ccn1	9.4794	7.5400	CHEMBL3654800	activity_mismatch	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@@H]4CN(C)C[C@H]4c4cccc(Cl)c4)ncc23)ccn1	9.4776	9.6300	CHEMBL3663035	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3c(F)c(NC(=O)N[C@H](C)c4ccccc4)ncc23)ccn1	9.4748	9.6300	CHEMBL3654746	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccncc3)c2cn1)c1ccccc1	9.4740	9.6300	CHEMBL3663000	confirmed	False	True
+MAPK1	P28482	CC(=O)NC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)CC3)cnc2N)cc1F)c1cccc(Cl)c1	9.4711	9.6200	CHEMBL4111729	confirmed	False	True
+MAPK1	P28482	CS(=O)(=O)c1cc(F)cc(CNC(=O)c2ccc(-c3nc(C4CCOCC4)cnc3N)cc2F)c1	9.4660	9.6200	CHEMBL3896812	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4cccc(F)c4)ncc23)ccn1	9.4619	9.6100	CHEMBL3654704	confirmed	False	True
+MAPK1	P28482	CO[C@H]1CC[C@H](c2cnc(N)c(-c3ccc(C(=O)N[C@H](CNC(C)=O)c4cccc(Cl)c4)c(F)c3)n2)CC1	9.4572	9.6000	CHEMBL4106946	confirmed	False	True
+MAPK1	P28482	Cc1cc(-n2ncc3cc(NC(=O)N[C@H]4CN(C)C[C@@H]4c4ccc(C)s4)ncc32)ccn1	9.4559	9.0000	CHEMBL5979878	confirmed	False	False
+MAPK1	P28482	Nc1ncc([C@@H]2CC[C@H](O)[C@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.4547	10.3500	CHEMBL3910107	close	False	True
+MAPK1	P28482	Cn1cc(-c2[nH]nc3cc(NC(=O)NCc4ccc(F)c(Cl)c4)ncc23)cn1	9.4544	9.6000	CHEMBL3654711	confirmed	False	True
+MAPK1	P28482	NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1ccccc1	9.4522	9.6000	CHEMBL4112757	confirmed	False	True
+MAPK1	P28482	CSC[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccnc(C)c3)c2cn1)c1ccccc1	9.4475	9.5900	CHEMBL3663025	confirmed	False	True
+MAPK1	P28482	Cn1nccc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cc(F)cc(Cl)c3)c(F)c2)c1	9.4473	9.5900	CHEMBL4108337	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@@H](c4ccccc4)[C@H]4CCCO4)ncc23)ccn1	9.4438	9.2500	CHEMBL3654863	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@@H](c4ccccc4)[C@@H]4CCCO4)ncc23)ccn1	9.4418	9.2500	CHEMBL3654863	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1ncc2c(-c3ccnc(C)c3)[nH]nc2c1F)c1ccccc1	9.4332	9.5700	CHEMBL3662997	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1ncc2c(-c3ccnc(F)c3)[nH]nc2c1F)c1ccccc1	9.4290	9.5600	CHEMBL3662998	confirmed	False	True
+MAPK1	P28482	CN1C(=O)N(Cc2ccc(Cl)cc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.4283	9.5600	CHEMBL5932850	confirmed	False	False
+MAPK1	P28482	CN=C(CC=N)Nc1nccc(-c2cc(=N)n3c(=N)n(Cc4ccc(Cl)cc4)c(=O)n(C)c3c2)n1	9.4283			not_in_chembl	False	False
+MAPK1	P28482	Nc1ncc(C2CCNC(=O)C2)cc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.4219	9.4700	CHEMBL4109430	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)CC3)cnc2N)cc1F)c1cccc(Cl)c1	9.4191	9.5500	CHEMBL4112345	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H](CO)c4cccc5cc[nH]c45)ncc23)ccn1	9.4112	9.5400	CHEMBL3658726	confirmed	False	True
+MAPK1	P28482	Cc1nn(C)c(C)c1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(Cl)c3)c(F)c2)c1	9.4112	9.5400	CHEMBL4109037	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc(F)cc3)c2c(CO)n1)c1ccc(F)cc1	9.4089	9.5400	CHEMBL6022965	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H](CN(C)C)c4ccccc4)ncc23)ccn1	9.4085	7.9600	CHEMBL3658843	activity_mismatch	False	True
+MAPK1	P28482	COc1ccccc1CNC(=O)Nc1cc2[nH]nc(-c3ccnc(C)c3)c2cn1	9.4058	9.5300	CHEMBL3662984	confirmed	False	True
+MAPK1	P28482	Cc1nn(C)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(S(C)(=O)=O)c3)c(F)c2)c1	9.4023	9.5300	CHEMBL4112455	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc4nn(C)cc4c3)c2cn1)c1ccccc1	9.4008	9.5300	CHEMBL3663062	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccnc(C)c3)c2cn1)c1ccccc1	9.3998	9.5300	CHEMBL3662993	confirmed	False	True
+MAPK1	P28482	CCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)[C@@H](C)O)nc(CO)c12	9.3979	9.5200	CHEMBL4113717	confirmed	False	True
+MAPK1	P28482	COCCOc1[nH]nc2cc(NC(=O)N[C@H](C)c3ccccc3)nc(CO)c12	9.3979	9.5200	CHEMBL4110724	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCOC(F)F)c2c(CO)n1)c1ccc(F)cc1	9.3979	9.5200	CHEMBL3920606	confirmed	False	True
+MAPK1	P28482	COCCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccccc3)C(C)(C)O)nc(CO)c12	9.3979	9.5200	CHEMBL3971306	confirmed	False	True
+MAPK1	P28482	O=c1cc(N2CCc3[nH]nc(-c4ccncc4)c3C2)ccn1Cc1cccc(Cl)c1	9.3979	9.5200	CHEMBL3604850	confirmed	False	True
+MAPK1	P28482	COCCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)C(C)(C)O)nc(CO)c12	9.3979	9.5200	CHEMBL3932591	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1[C@H](CO)c1cccc(Cl)c1	9.3979	8.8900	CHEMBL3409574	close	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3cnn(C)c3)c2cn1)c1ccccc1	9.3979	9.4800	CHEMBL3654680	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H](C)c4ccccc4)ncc23)cc(C)n1	9.3979	9.5200	CHEMBL3654682	confirmed	False	True
+MAPK1	P28482	C[C@H](c1ccccc1)N1Cc2cc(C(=N)c3ccc4nnn(C)c4c3)c(N)cc2NC1=O	9.3979	9.5200	CHEMBL5871011	confirmed	False	False
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccnc(F)c3)c2cn1)c1ccccc1	9.3979	9.5200	CHEMBL3663084	confirmed	False	True
+MAPK1	P28482	Cn1cc(-c2[nH][nH]c3cc4nc(=O)c(Cc5ccccc5)cc4cc23)cn1	9.3979			not_in_chembl	False	False
+MAPK1	P28482	Cn1cc(-c2[nH][nH]c3cc4nc(=O)c(Br)cc4cc23)cn1	9.3979			not_in_chembl	False	False
+MAPK1	P28482	Cn1cc(-c2[nH][nH]c3cc4nc(=O)ccc4cc23)cn1	9.3979			not_in_chembl	False	False
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1Cc1ccc(Cl)cc1	9.3979	9.5200	CHEMBL3409408	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1[C@H](CO)c1ccc(F)c(Cl)c1	9.3979	9.5200	CHEMBL3409582	confirmed	False	True
+MAPK1	P28482	Cc1nc(NC(=O)N[C@@H](c2ccccc2)C(C)(C)O)cc2[nH]nc(N3CCOCC3)c12	9.3979	9.5200	CHEMBL3974074	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCOCC3)c2c(CO)n1)c1ccccc1	9.3979	9.5200	CHEMBL3965910	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCc4ncsc4C3)c2cn1)c1ccccc1	9.3979	9.5200	CHEMBL3968544	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCc4ncsc4C3)c2cn1)c1ccccc1	9.3979	9.5200	CHEMBL4109000	confirmed	False	True
+MAPK1	P28482	CC(=O)Nc1[nH]nc2cc(NC(=O)N[C@H](COC(F)F)c3ccccc3)ncc12	9.3979	9.5200	CHEMBL4109167	confirmed	False	True
+MAPK1	P28482	COC(=O)Nc1[nH]nc2cc(NC(=O)N[C@H]3c4ccccc4OCC[C@H]3O)ncc12	9.3979	9.5200	CHEMBL4111834	confirmed	False	True
+MAPK1	P28482	O=C(Nc1cc2[nH]nc(NC(=O)N3CC(F)(F)C3)c2cn1)N[C@H]1c2ccccc2OCC[C@H]1O	9.3979	9.5200	CHEMBL4108569	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1C(CO)c1ccc(F)c(Cl)c1	9.3979	9.5200	CHEMBL3409582	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@@H]2CCC[C@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.3979	9.6500	CHEMBL3893928	confirmed	False	True
+MAPK1	P28482	C[C@H](c1ccccc1)N1Cc2cc3c(-c4ccnc(F)c4)[nH]nc3cc2NC1=O	9.3979	9.5200	CHEMBL5987136	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H](C)c4ccc(F)c(F)c4)ncc23)ccn1	9.3944	9.0000	CHEMBL3658697	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3c(F)c(NC(=O)N[C@H](C)c4ccc(F)cc4)ccc23)ccn1	9.3940	9.5200	CHEMBL3662990	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc(=O)[nH]c3)c2cn1)c1ccc(F)cc1	9.3939	9.5200	CHEMBL3658652	confirmed	False	True
+MAPK1	P28482	COc1cccc(F)c1CNC(=O)Nc1cc2[nH]nc(-c3ccnc(C)c3)c2cn1	9.3907	9.5100	CHEMBL3658847	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4ccccc4OC(F)F)ncc23)ccn1	9.3885	9.5100	CHEMBL3658804	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc4nnn(C)c4c3)c2cn1)c1ccc(F)cc1	9.3883	9.5100	CHEMBL3654886	confirmed	False	True
+MAPK1	P28482	CN1C[C@@H](Cc2ccc(Cl)c(F)c2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.3872		CHEMBL5821135	no_activity_for_target	False	False
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc(F)cc3)c2c(CO)n1)c1ccccc1	9.3872	9.5100	CHEMBL5920326	confirmed	False	False
+MAPK1	P28482	Cc1cnc(Nc2ccnn2C)nc1-c1cn2c(n1)C(=O)N(Cc1ccc(F)c(F)c1)[C@@H](C)C2	9.3872	9.4900	CHEMBL4440109	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Oc2cncc(Cl)c2)CCO3)n1	9.3862	9.5100	CHEMBL5821708	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NC(CS(C)(=O)=O)c4ccccc4)ncc23)ccn1	9.3838	9.5000	CHEMBL3663021	confirmed	False	True
+MAPK1	P28482	Cc1cnccc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3ccccc3)c(F)c2)n1	9.3825	9.4400	CHEMBL4112127	confirmed	False	True
+MAPK1	P28482	O=C(Nc1ncc2c(-c3ccncc3)[nH]nc2c1F)N[C@H](CO)c1ccccc1	9.3818	9.5000	CHEMBL3663003	confirmed	False	True
+MAPK1	P28482	CC(C)CC1CN(C)c2cc(-c3ccnc(Nc4ccnn4C)c3)cc3nnc1n23	9.3809	9.5000	CHEMBL5750619	confirmed	False	False
+MAPK1	P28482	CN1C(=O)CC(Cc2ccc(F)cc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)c4)cc1n23	9.3809	9.5000	CHEMBL5783483	confirmed	False	False
+MAPK1	P28482	CN1C(=O)C[C@@H](Cc2ccc(F)cc2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)c4)cc1n23	9.3809	9.5000	CHEMBL5783483	confirmed	False	False
+MAPK1	P28482	COc1ccc(-c2[nH]nc3cc(NC(=O)N[C@H](C)c4ccccc4)ncc23)cn1	9.3793	9.5000	CHEMBL3663092	confirmed	False	True
+MAPK1	P28482	Cc1cnc(Nc2ccnn2C)nc1-c1cn2c(n1)C(=O)N(Cc1cccc(Cl)c1)CC2	9.3768	9.4700	CHEMBL4452853	confirmed	False	True
+MAPK1	P28482	Cc1cc(-n2ncc3cc(NC(=O)N[C@@H]4CCN(Cc5c(F)cccc5F)C4)ncc32)ccn1	9.3768	9.4900	CHEMBL5825463	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4cnsn4)ncc23)ccn1	9.3738	9.4900	CHEMBL3658788	confirmed	False	True
+MAPK1	P28482	Cc1cnc(Nc2ccnn2C)nc1-c1cc2n(c1)CCN(Cc1ccc(F)c(F)c1)C2=O	9.3716	9.4600	CHEMBL4587118	confirmed	False	True
+MAPK1	P28482	Cn1cncc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3cccc(Cl)c3)c(F)c2)c1	9.3706	9.4900	CHEMBL4110831	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccnc(C4CC4)c3)c2cn1)c1ccccc1	9.3706	9.4900	CHEMBL3663055	confirmed	False	True
+MAPK1	P28482	Cn1cc2cc(-n3ncc4cc(NC(=O)N[C@@H](c5ccccc5)C(C)(C)O)ncc43)ccc2n1	9.3665	9.4800	CHEMBL5977936	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NC(CCO)c4ccccc4)ncc23)ccn1	9.3636	9.4800	CHEMBL3658701	confirmed	False	True
+MAPK1	P28482	COC(=O)NC[C@@H](NC(=O)c1ccc(-c2nc(C3CCOCC3)cnc2N)cc1F)c1cccc(Cl)c1	9.3635	9.4800	CHEMBL4115243	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2nc(C3CCOCC3)cnc2N)ccc1C(=O)N[C@H](CO)c1ccccc1	9.3620	9.2700	CHEMBL4106860	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc(C#N)cc3)c2cn1)c1ccccc1	9.3613	9.4700	CHEMBL3663057	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)CC2)cc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.3575	9.4700	CHEMBL4111668	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4cccc(NS(C)(=O)=O)c4)ncc23)ccn1	9.3567	9.4700	CHEMBL3658730	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(OC3CCOCC3)c2c(C)n1)c1ccccc1	9.3565	9.4700	CHEMBL4108642	confirmed	False	True
+MAPK1	P28482	CCc1cnc(Nc2ccnn2C)nc1-c1nc2c(s1)C(C)(C)N(Cc1cccc(C)n1)C2=O	9.3565			not_in_chembl	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@H](Cc2ccccc2)CS3)n1	9.3561	9.1800	CHEMBL5981645	confirmed	False	False
+MAPK1	P28482	Nc1ncc(C2CCC(=O)NC2)cc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.3536	9.4600	CHEMBL3965985	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)c1ccc(-c2cc([C@H]3CC[C@H](O)CC3)cnc2N)cc1F)c1cc(F)cc(S(C)(=O)=O)c1	9.3516	9.4600	CHEMBL4107690	confirmed	False	True
+MAPK1	P28482	COC(=O)N1CCC(c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)n2)CC1	9.3468	9.4600	CHEMBL4112456	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCOCC3)c2cn1)c1ccccc1	9.3468	9.4000	CHEMBL4111938	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@H](Cc2ccc(Cl)cc2)CCO3)n1	9.3420	9.1600	CHEMBL5763773	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NC(CN)c4ccc(F)cc4)ncc23)ccn1	9.3401	9.4500	CHEMBL3662977	confirmed	False	True
+MAPK1	P28482	O=C(Nc1cc2[nH]nc(-c3ccncc3)c2cn1)N[C@H](CO)c1ccccc1	9.3394	9.4500	CHEMBL3663001	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4ccccc4OCC(F)F)ncc23)ccn1	9.3388	9.4500	CHEMBL3662980	confirmed	False	True
+MAPK1	P28482	O=C(N[C@H](CO)c1ccc(Cl)c(F)c1)c1ccc2cnc(NC3CCOCC3)cc2n1	9.3372	9.4400	CHEMBL4112022	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)c1ccc(-c2nc(C3=CCOCC3)cnc2N)cc1F)c1cc(F)cc(S(C)(=O)=O)c1	9.3354	9.3000	CHEMBL4115416	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2cc3n4c(nnc4c2)[C@H](Cc2ccccc2)CN3)ccn1	9.3340	9.1500	CHEMBL5743783	confirmed	False	False
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3cnc(=O)[nH]c3)c2cn1)c1ccccc1	9.3314	9.4400	CHEMBL3658658	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H](C)c4ccccc4)nc(C)c23)ccn1	9.3279	9.4300	CHEMBL5764488	confirmed	False	False
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCOCC3)c2cn1)c1ccccc1	9.3279	9.4300	CHEMBL4114263	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@@H](F)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.3270	9.4300	CHEMBL4112116	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCC(CO)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.3251	9.2800	CHEMBL4106965	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)CC2)nc1-c1ccc(C(=O)N[C@H](CNCCF)c2cc(F)cc(Br)c2)c(F)c1	9.3242	9.4300	CHEMBL4110246	confirmed	False	True
+MAPK1	P28482	O=C(N[C@H](CO)c1ccc(Cl)c(F)c1)N1CCc2cnc(NC3CCOCC3)nc2C1	9.3233	9.2200	CHEMBL3298678	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)Nc4noc5cnccc45)ncc23)ccn1	9.3209	9.4200	CHEMBL3658724	confirmed	False	True
+MAPK1	P28482	Cc1cccc([C@@H](CO)NC(=O)c2ccc(-c3cc(-c4cnnn4C)cnc3N)cc2F)c1	9.3206	9.4200	CHEMBL4106528	confirmed	False	True
+MAPK1	P28482	Cc1nn(C)cc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CN)c3ccccc3)c(F)c2)c1	9.3188	9.4200	CHEMBL4107745	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cc2ccccc2)CN3)n1	9.3188	9.4200	CHEMBL5762132	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4ccsc4)ncc23)ccn1	9.3147	9.4100	CHEMBL3658837	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc(F)cc3)c2c(CO)n1)c1ccc(F)cc1	9.3098	9.4100	CHEMBL5814836	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H](C)c4ccccc4)nc(CO)c23)ccn1	9.3098	9.4100	CHEMBL5967839	confirmed	False	False
+MAPK1	P28482	COc1ccc(C[C@H]2NC(=O)N(C)c3cc(-c4ccnc(Nc5ccnn5C)c4)cc4nnc2n34)cc1	9.3098	9.4100	CHEMBL5988077	confirmed	False	False
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@H](O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.3086	8.8900	CHEMBL4106645	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H](CO)c4ccccc4)ncc23)ccn1	9.3079		CHEMBL3654668	no_activity_for_target	False	True
+MAPK1	P28482	CN1C[C@@H](NC(=O)Nc2cc3[nH]nc(-c4ccc(F)cc4)c3cn2)[C@H](c2ccccc2)C1	9.3064	7.3800	CHEMBL3654840	activity_mismatch	False	True
+MAPK1	P28482	Nc1ncc(C2CCSCC2)cc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.3036	9.4000	CHEMBL3985297	confirmed	False	True
+MAPK1	P28482	COC[C@H](NC(=O)Nc1cc2[nH]nc(N3CCOCC3)c2cn1)c1ccc(F)cc1	9.3010	9.4000	CHEMBL3916940	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(NC3CCC3)c2cn1)c1ccccc1	9.3010	9.4000	CHEMBL4108250	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCC(F)(F)CC3)c2cn1)c1ccccc1	9.3010	9.4000	CHEMBL3940265	confirmed	False	True
+MAPK1	P28482	COC(=O)Nc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)C3(O)CCC3)ncc12	9.3010	9.4000	CHEMBL4110027	confirmed	False	True
+MAPK1	P28482	COC(=O)Nc1[nH]nc2cc(NC(=O)N[C@@H](c3ccccc3)C(C)(C)O)ncc12	9.3010	9.4000	CHEMBL3966395	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCc4nn(C)cc4C3)c2cn1)c1ccc(F)cc1	9.3010	9.4000	CHEMBL4111032	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCc4nn(C)cc4C3)c2cn1)c1ccccc1	9.3010	9.4000	CHEMBL4112896	confirmed	False	True
+MAPK1	P28482	O=C(Nc1cc2[nH]nc(N3CCOCC3)c2cn1)N[C@H](CO)c1ccccc1	9.3010	9.4000	CHEMBL4109695	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCOCC3)c2cn1)c1ccc(F)cc1	9.3010	9.4000	CHEMBL3970161	confirmed	False	True
+MAPK1	P28482	O=C(Nc1cc2[nH]nc(N3CCOCC3)c2cn1)N[C@H](COC(F)F)c1ccccc1	9.3010	9.4000	CHEMBL4109835	confirmed	False	True
+MAPK1	P28482	CC(O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCOCC3)c2cn1)c1ccccc1	9.3010	9.4000	CHEMBL4111938	confirmed	False	True
+MAPK1	P28482	CS(=O)(=O)c1cccc(Cn2ccc(N3CCc4[nH]nc(-c5ccncc5)c4C3)cc2=O)c1	9.3010	9.4000	CHEMBL3604852	confirmed	False	True
+MAPK1	P28482	CCNc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)C(C)(C)O)ncc12	9.3010	9.4000	CHEMBL3892204	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCOC(F)F)c2c(CO)n1)c1ccccc1	9.3010	9.4000	CHEMBL4109763	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCO)c2c(CO)n1)c1ccccc1	9.3010	9.1000	CHEMBL3942130	confirmed	False	True
+MAPK1	P28482	COc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(Cl)c(Cl)c3)C(C)(C)O)nc(CO)c12	9.3010	9.4000	CHEMBL3917168	confirmed	False	True
+MAPK1	P28482	CCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccccc3)[C@@H](C)O)nc(CO)c12	9.3010	9.4000	CHEMBL4113494	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3COC3)n2)ccn1[C@H](CO)c1ccc(Cl)c(F)c1	9.3010	9.4000	CHEMBL3409603	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCOC(F)F)c2cn1)c1ccccc1	9.3010	9.4000	CHEMBL3966700	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCOCC3)c2cn1)c1ccc(F)cc1	9.3010	9.4000	CHEMBL4107731	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCOCC3)c2cn1)c1ccccc1	9.3010	9.4000	CHEMBL4109990	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(NC(=O)N3CC(F)(F)C3)c2cn1)c1ccc(F)cc1	9.3010	9.4000	CHEMBL3969660	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(OC3CCOC3)c2cn1)c1ccc(F)cc1	9.3010	9.4000	CHEMBL3900586	confirmed	False	True
+MAPK1	P28482	CC(C)(O)C(NC(=O)Nc1cc2[nH]nc(OC3CCOC3)c2cn1)c1ccc(F)cc1	9.3010	9.4000	CHEMBL3900586	confirmed	False	True
+MAPK1	P28482	COCCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)C3(O)CCC3)nc(CO)c12	9.3010	9.4000	CHEMBL4108379	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1Cc1cccc(Cl)c1	9.3010	9.4000	CHEMBL3409407	confirmed	False	True
+MAPK1	P28482	Cc1nc(NC(=O)N[C@@H](c2ccccc2)C(C)(C)O)cc2[nH]nc(OCCO)c12	9.3010	9.4000	CHEMBL3929367	confirmed	False	True
+MAPK1	P28482	Nc1[nH]nc2cc(NC(=O)N[C@@H](c3ccccc3)C3(O)CCCC3)ncc12	9.3010	9.4000	CHEMBL3895058	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(NC(=O)C(C)C)c2cn1)c1ccccc1	9.3010	9.4000	CHEMBL4109924	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCOCC3)c2c(CO)n1)c1ccc(F)cc1	9.3010	9.4000	CHEMBL4114320	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCc4ncsc4C3)c2cn1)c1ccccc1	9.3010	9.4000	CHEMBL4111255	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCc4ncsc4C3)c2cn1)c1ccc(F)cc1	9.3010	9.4000	CHEMBL3892716	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1C(CO)c1ccc(Cl)c(F)c1	9.3010	9.4000	CHEMBL3409581	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1C(CO)c1ccccc1Cl	9.3010	9.4000	CHEMBL3409572	confirmed	False	True
+MAPK1	P28482	COc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)c(C)c3)C(C)(C)O)nc(CO)c12	9.3010	9.4000	CHEMBL3892731	confirmed	False	True
+MAPK1	P28482	C[C@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCOC(F)F)c2cn1)c1ccccc1	9.3010	9.4000	CHEMBL3956572	confirmed	False	True
+MAPK1	P28482	Cc1cnc(Nc2ccccn2)nc1-c1c[nH]c(C(=O)N[C@H](CO)c2ccccc2)c1	9.3010			not_in_chembl	False	False
+MAPK1	P28482	C[C@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCOC(F)F)c2cn1)c1ccc(F)cc1	9.3010	9.4000	CHEMBL3930671	confirmed	False	True
+MAPK1	P28482	CCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccccc3)C(C)(C)O)nc(CO)c12	9.3010	9.4000	CHEMBL3981912	confirmed	False	True
+MAPK1	P28482	CCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)C(C)(C)O)nc(CO)c12	9.3010	9.4000	CHEMBL3899365	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2ccn3c(CC4CC4)nnc3c2)ccn1	9.3010	9.4000	CHEMBL5770487	confirmed	False	False
+MAPK1	P28482	O=C(N[C@H](CO)c1ccc(F)c(Cl)c1)N1CCc2cnc(NC3CCOCC3)nc2C1	9.3010	9.4000	CHEMBL3298414	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)[C@H](Cc2ccc(Cl)cc2)CO3)n1	9.2997	9.1100	CHEMBL5743637	confirmed	False	False
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc4nn(C)cc4c3)c2cn1)c1ccc(F)cc1	9.2971	9.3900	CHEMBL3654714	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4ccc(F)c(Cl)c4)ncc23)ccn1	9.2916	9.3900	CHEMBL3654707	confirmed	False	True
+MAPK1	P28482	Cc1oncc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3ccccc3)c(F)c2)n1	9.2874	9.3800	CHEMBL4114086	confirmed	False	True
+MAPK1	P28482	O=C(Nc1ncc2c(OCc3ccncc3)[nH]nc2c1F)N[C@H](CO)c1ccccc1	9.2840	9.3800	CHEMBL4106783	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H]4[C@H](c5ccccc5C)CN(C)[C@H]4C)ncc23)ccn1	9.2789	9.3700	CHEMBL3663010	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)Nc4noc5cccnc45)ncc23)ccn1	9.2770	9.3700	CHEMBL3662949	confirmed	False	True
+MAPK1	P28482	CC=Cc1[nH]nc2cc(NC(=O)N[C@H](C)c3ccccc3)ncc12	9.2770	9.3700	CHEMBL3654718	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H](C)c4ccc(F)c(Cl)c4)ncc23)ccn1	9.2741	9.3700	CHEMBL3654720	confirmed	False	True
+MAPK1	P28482	Cc1cc(-n2ncc3cc(NC(=O)N[C@H]4CN(C)C[C@@H]4CCc4ccccc4)ncc32)ccn1	9.2716	9.1600	CHEMBL5828439	confirmed	False	False
+MAPK1	P28482	[N-]=[N+]=NC[C@@H](NC(=O)c1ccc(-c2nc([C@H]3CC[C@H](O)CC3)cnc2N)cc1F)c1cccc(Cl)c1	9.2708	8.2400	CHEMBL4110151	activity_mismatch	False	True
+MAPK1	P28482	COc1cc(F)ccc1CNC(=O)Nc1cc2[nH]nc(-c3ccnc(C)c3)c2cn1	9.2678	9.3600	CHEMBL3662975	confirmed	False	True
+MAPK1	P28482	Cc1cc(-n2ncc3cc(NC(=O)NCc4cccc(NS(C)(=O)=O)c4)ncc32)ccn1	9.2676	9.3600	CHEMBL5895140	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H]4CN(C)[C@@H](C(F)F)[C@@H]4c4ccccc4)ncc23)ccn1	9.2665	9.3600	CHEMBL3663022	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H]4CCN(CC(F)(F)F)C4)ncc23)ccn1	9.2616	8.4500	CHEMBL3658694	close	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc(F)cc3)c2c(CO)n1)c1ccccc1	9.2596	9.3500	CHEMBL5772828	confirmed	False	False
+MAPK1	P28482	COC[C@H]1Cn2cc(-c3nc(Nc4ccnn4C)ncc3C)cc2C(=O)N1Cc1cccc(C)n1	9.2596	9.2200	CHEMBL4551714	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4c(F)cccc4Cl)ncc23)ccn1	9.2453	9.3300	CHEMBL3658803	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3cnn(C)c3)c2cn1)c1ccc(F)cc1	9.2451	9.3300	CHEMBL3654885	confirmed	False	True
+MAPK1	P28482	Cc1cccc(CN2C(=O)c3nc(-c4nc(NC5CCOCC5)ncc4C)sc3C2(C)C)n1	9.2441			not_in_chembl	False	False
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(F)c2)c(F)c1	9.2415	9.2900	CHEMBL4112681	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NC(CF)c4ccccc4)ncc23)ccn1	9.2410	9.3200	CHEMBL3658718	confirmed	False	True
+MAPK1	P28482	Cc1cccc(CN2C(=O)c3cc(-c4nc(Nc5ccnn5C)ncc4C)cn3C[C@H]2C)n1	9.2393	9.3000	CHEMBL4071576	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCCc4nc5ccccc5[nH]4)ncc23)ccn1	9.2384	9.3200	CHEMBL3658741	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@@H]4[C@@H](c5ccccc5)CN(C)[C@@H]4C)ncc23)ccn1	9.2373	9.3200	CHEMBL3663023	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc4cn(C)nc4c3)c2cn1)c1ccccc1	9.2359	9.3200	CHEMBL3663063	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@@H]2CCC(F)(F)[C@H](O)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.2343	9.6600	CHEMBL3934781	confirmed	False	True
+MAPK1	P28482	Cc1ncc(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)c2)n1C	9.2314	9.3100	CHEMBL4107037	confirmed	False	True
+MAPK1	P28482	CC[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccnc(C)c3)c2cn1)c1ccccn1	9.2312	7.3800	CHEMBL3654844	activity_mismatch	False	True
+MAPK1	P28482	Cc1cccc(CN2C(=O)c3nc(-c4nc(Nc5ccnn5C)ncc4C)sc3C2(C)C)n1	9.2291			not_in_chembl	False	False
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(C(F)F)c2c(CO)n1)c1ccc(F)cc1	9.2291	9.3100	CHEMBL5963069	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NC4CCCOc5ccccc54)ncc23)ccn1	9.2263	9.4200	CHEMBL3658642	confirmed	False	True
+MAPK1	P28482	O=c1cc(N2CCc3[nH]nc(-c4ccncc4)c3C2)ccn1Cc1cccc(F)c1	9.2218	9.3000	CHEMBL3604849	confirmed	False	True
+MAPK1	P28482	COCCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)C(C)(C)O)ncc12	9.2218	9.3000	CHEMBL3972200	confirmed	False	True
+MAPK1	P28482	CCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)C3(O)CCC3)nc(CO)c12	9.2218	9.3000	CHEMBL4113840	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(OC3CCOC3)c2cn1)c1ccccc1	9.2218	9.3000	CHEMBL3971735	confirmed	False	True
+MAPK1	P28482	COCCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccccc3)C3(O)CCC3)nc(CO)c12	9.2218	9.3000	CHEMBL4110288	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCC(F)F)c2c(CO)n1)c1ccccc1	9.2218	9.3000	CHEMBL3924394	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(N)c2c(CO)n1)c1ccccc1	9.2218	9.3000	CHEMBL4109941	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CC4CC3CO4)c2cn1)c1ccccc1	9.2218	9.3000	CHEMBL4115126	confirmed	False	True
+MAPK1	P28482	Cc1nc(NC(=O)N[C@@H](c2ccc(F)cc2)[C@@H](C)O)cc2[nH]nc(N3CCOCC3)c12	9.2218	9.3000	CHEMBL4114432	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(NC(=O)N3CCC3)c2cn1)c1ccc(F)cc1	9.2218	9.3000	CHEMBL3936544	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(NC(=O)Cc3ccc(F)cc3)c2cn1)c1ccccc1	9.2218	9.3000	CHEMBL4108492	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(NC(=O)C3CCC3)c2cn1)c1ccccc1	9.2218	9.3000	CHEMBL4112138	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(NC3COC3)c2cn1)c1ccccc1	9.2218	9.3000	CHEMBL4108159	confirmed	False	True
+MAPK1	P28482	Cc1cc(-n2ncc3cc(NC(=O)N[C@H]4[C@H](c5ccccc5C)CN(C)[C@H]4C)ncc32)ccn1	9.2218	7.4600	CHEMBL5749137	activity_mismatch	False	False
+MAPK1	P28482	O=C(NCc1cccc(Cl)c1)Nc1cc2cnn(-c3ccncc3)c2cn1	9.2218	9.3000	CHEMBL5849729	confirmed	False	False
+MAPK1	P28482	Cc1cnc(N[C@@H]2C[C@@H]2C)nc1-c1c[nH]c(C(=O)N[C@H](CO)c2ccccc2)c1	9.2218			not_in_chembl	False	False
+MAPK1	P28482	COc1[nH]nc2cc(NC(=O)N[C@H](C)c3ccc(Cl)c(O)c3)nc(CO)c12	9.2218	9.3000	CHEMBL4107991	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCO)c2cn1)c1ccc(F)cc1	9.2218	9.3000	CHEMBL3971980	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCOC(F)F)c2cn1)c1ccc(F)cc1	9.2218	9.3000	CHEMBL3895406	confirmed	False	True
+MAPK1	P28482	C[C@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCO)c2c(CO)n1)c1ccc(F)cc1	9.2218	9.3000	CHEMBL3950851	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCO)c2c(CO)n1)c1ccccc1	9.2218	9.3000	CHEMBL3947147	confirmed	False	True
+MAPK1	P28482	O=C(Nc1cc2[nH]nc(OCCO)c2cn1)N[C@H](CO)c1ccccc1	9.2218	9.3000	CHEMBL4114143	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCO)c2c(CO)n1)c1ccc(F)cc1	9.2218	9.3000	CHEMBL3950851	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCOC(F)F)c2c(CO)n1)c1ccc(F)cc1	9.2218	9.3000	CHEMBL4109158	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(OC3CCOC3)c2c(CO)n1)c1ccccc1	9.2218	9.3000	CHEMBL4107533	confirmed	False	True
+MAPK1	P28482	O=C(Nc1cc2[nH]nc(OC[C@H](O)C(F)(F)F)c2cn1)N[C@H](CO)c1ccccc1	9.2218	8.7000	CHEMBL4111496	close	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCO)c2cn1)c1ccccc1	9.2218	9.2200	CHEMBL3953044	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1C(CO)c1ccc(F)c(F)c1	9.2218	9.3000	CHEMBL3409580	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1C(CO)c1cc(F)cc(F)c1	9.2218	9.3000	CHEMBL3409583	confirmed	False	True
+MAPK1	P28482	CCNc1[nH]nc2cc(NC(=O)N[C@@H](c3ccccc3)C(C)(C)OC)ncc12	9.2218	9.3000	CHEMBL3968853	confirmed	False	True
+MAPK1	P28482	COC(=O)Nc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)C(C)(C)O)ncc12	9.2218	9.3000	CHEMBL3948938	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCc4ncsc4C3)c2cn1)c1ccccc1	9.2218	7.4600	CHEMBL3940179	activity_mismatch	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCOCC3)c2cn1)c1ccccc1	9.2218	9.3000	CHEMBL3931582	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CC4CCC(C3)O4)c2cn1)c1ccccc1	9.2218	9.3000	CHEMBL3935586	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2ccn3c(Cc4cccc(Cl)c4Cl)nnc3c2)n1	9.2218	9.3000	CHEMBL5955533	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3c(F)c(NC(=O)N[C@H](C)c4ccc(Cl)cc4)ncc23)ccn1	9.2153	9.2900	CHEMBL3662989	confirmed	False	True
+MAPK1	P28482	Cc1cc(-n2ncc3cc(NC(=O)N[C@H]4CN(C)C[C@@H]4c4ccccc4C(F)(F)F)ncc32)ccn1	9.2147	6.6300	CHEMBL5800429	activity_mismatch	False	False
+MAPK1	P28482	CC(C)[C@@H]1CC(=O)N(C)c2cc(-c3ccnc(Nc4ccnn4C)n3)cc3nnc1n23	9.2132	6.4300	CHEMBL5816423	activity_mismatch	False	False
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3cnn(C)c3)c2cn1)c1ccc(Cl)cc1	9.2118	9.2900	CHEMBL3654710	confirmed	False	True
+MAPK1	P28482	COc1cccc(F)c1CN1CCC[C@@H](NC(=O)Nc2cc3cnn(-c4ccnc(C)c4)c3cn2)C1	9.2076	9.2800	CHEMBL5843980	confirmed	False	False
+MAPK1	P28482	CCO[C@H]1CN(C)C[C@@H]1NC(=O)Nc1cc2[nH]nc(-c3ccc(F)cc3)c2cn1	9.2070	9.2800	CHEMBL3658687	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H]4CN(C)C[C@@H]4c4ccccc4C(F)(F)F)ncc23)ccn1	9.2026	9.2800	CHEMBL3654806	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc(C#N)cc3)c2c(CO)n1)c1ccccc1	9.2007	9.2800	CHEMBL5930235	confirmed	False	False
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3cnn(CC(C)(C)O)c3)c2cn1)c1ccccc1	9.1971	9.2700	CHEMBL3663087	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@@H]4CN(C)C[C@H]4c4ccccc4C)ncc23)ccn1	9.1959	9.2700	CHEMBL3654834	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H]4CN(C)C[C@@H]4c4ccccc4C)ncc23)ccn1	9.1956	9.2700	CHEMBL3654834	confirmed	False	True
+MAPK1	P28482	Cc1cccc(CN2C(=O)c3nc(-c4nc(Nc5ccnn5C)ncc4C)sc3C23COC3)n1	9.1938			not_in_chembl	False	False
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@@H](O)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.1938	10.6200	CHEMBL3924033	activity_mismatch	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@@H](c4ccccc4)C4(O)CCCC4)ncc23)ccn1	9.1902	9.2600	CHEMBL3662986	confirmed	False	True
+MAPK1	P28482	CCOc1ncccc1CNC(=O)Nc1cc2[nH]nc(-c3ccnc(C)c3)c2cn1	9.1897	9.2600	CHEMBL3662981	confirmed	False	True
+MAPK1	P28482	Nc1ncc(-c2ccncc2)cc1-c1ccc(C(=O)N[C@H](CO)c2ccccc2)cc1	9.1891	9.2300	CHEMBL4108953	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)c1ccc(-c2cc(C3CCC(=O)NC3)cnc2N)cc1F)c1cccc(Cl)c1	9.1878	9.2600	CHEMBL4114958	confirmed	False	True
+MAPK1	P28482	Cn1cc([C@@H](NC(=O)c2ccc3cnc(NC4CCOCC4)nc3c2)c2ccc(OC(F)F)cc2)cn1	9.1871	9.2600	CHEMBL3920813	confirmed	False	True
+MAPK1	P28482	Cc1cc(-n2ncc3cc(NC(=O)N[C@H]4CN(C)C[C@@H]4c4ccccc4C)ncc32)ccn1	9.1838	7.9200	CHEMBL5771187	activity_mismatch	False	False
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(NC(C)=O)c2cn1)c1ccc(F)cc1	9.1805	9.2500	CHEMBL4115379	confirmed	False	True
+MAPK1	P28482	Cc1cc(-n2ncc3cc(NC(=O)N[C@@H](c4ccccc4)C(C)(C)O)ncc32)ccn1	9.1805	9.2500	CHEMBL5752130	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCC4CCCCC4)ncc23)ccn1	9.1795	9.2500	CHEMBL3663032	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc4nn(C)cc4c3)c2cn1)c1ccc(Cl)cc1	9.1794	9.2500	CHEMBL3654716	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc4c(c3)nnn4C)c2cn1)c1ccc(F)cc1	9.1790	9.2500	CHEMBL3658669	confirmed	False	True
+MAPK1	P28482	COCC(=O)N[C@H]1CC[C@H](c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)n2)CC1	9.1772	9.1000	CHEMBL4108025	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NC(c4ccccc4)C4CCCO4)ncc23)ccn1	9.1765	9.2500	CHEMBL3654863	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCOCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2ccccc2)c(F)c1	9.1749	9.2300	CHEMBL4106865	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1ncc2c(OCc3ccncc3)[nH]nc2c1F)c1ccccc1	9.1739	9.2400	CHEMBL4107370	confirmed	False	True
+MAPK1	P28482	CN1C[C@H](NC(=O)Nc2cc3cnn(-c4ccc(F)cc4)c3cn2)[C@@H](c2ccccc2)C1	9.1675	9.2400	CHEMBL6031716	confirmed	False	False
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3ccc4nncn4c3)c2cn1)c1ccc(F)cc1	9.1672	9.2400	CHEMBL3654872	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NC(C)c4ccc(S(C)(=O)=O)cc4)ncc23)ccn1	9.1665	9.2300	CHEMBL3658740	confirmed	False	True
+MAPK1	P28482	Cn1cc2cc(-c3[nH]nc4cc(NC(=O)NCc5ccc(F)c(Cl)c5)ncc34)ccc2n1	9.1636	9.2300	CHEMBL3654715	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4ccsn4)ncc23)ccn1	9.1631	9.2300	CHEMBL3658838	confirmed	False	True
+MAPK1	P28482	COC1CCCC(c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)n2)C1	9.1593	9.2300	CHEMBL4114008	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4cnsc4)ncc23)ccn1	9.1586	9.2300	CHEMBL3658786	confirmed	False	True
+MAPK1	P28482	Cc1c(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(F)c4)c(F)c3)c2)cnn1C	9.1580	9.2200	CHEMBL4109292	confirmed	False	True
+MAPK1	P28482	COc1ncc(-c2[nH]nc3cc4c(cc23)CN([C@H](C)c2ccccc2)C(=O)N4)cn1	9.1549	9.2200	CHEMBL5842464	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc4c(cc23)CN(Cc2cccc(C)n2)C(=O)N4)ccn1	9.1549	9.2200	CHEMBL5775737	confirmed	False	False
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc4c(cc23)CNC(=O)N4)ccn1	9.1549	9.2200	CHEMBL5744434	confirmed	False	False
+MAPK1	P28482	Cn1nccc1Nc1nccc(-c2cc3n4c(nnc4c2)C(Cc2ccc(F)c(Cl)c2)CO3)n1	9.1549	9.2200	CHEMBL5877935	confirmed	False	False
+MAPK1	P28482	N#Cc1cccc(C(CO)n2ccc(-c3ccnc(NC4CCOCC4)n3)cc2=O)c1	9.1549	9.2200	CHEMBL3409579	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)cnn1C(CO)c1ccc(Cl)c(F)c1	9.1549	9.2200	CHEMBL3409595	confirmed	False	True
+MAPK1	P28482	Cn1nccc1Nc1cc(-c2ccn3c(CC(C)(C)C)nnc3c2)ccn1	9.1549	9.2200	CHEMBL6019723	confirmed	False	False
+MAPK1	P28482	Fc1ccc(Cc2nnc3cc(-c4ccnc(NC5CCOCC5)n4)ccn23)cc1	9.1549	9.2200	CHEMBL5956859	confirmed	False	False
+MAPK1	P28482	COC(=O)Nc1[nH]nc2cc(NC(=O)N[C@@H](c3ccccc3)[C@H]3CCCO3)ncc12	9.1549	9.2200	CHEMBL4107325	confirmed	False	True
+MAPK1	P28482	O=C(Nc1cc2[nH]nc(OCC(F)F)c2cn1)N[C@H]1c2ccccc2OCC[C@H]1O	9.1549	6.4600	CHEMBL3932382	activity_mismatch	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(NC(C)C(F)(F)F)c2cn1)c1ccccc1	9.1549	9.1000	CHEMBL4111461	confirmed	False	True
+MAPK1	P28482	CC(=O)Nc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)C(C)(C)O)ncc12	9.1549	9.2200	CHEMBL3892937	confirmed	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CC(F)(F)C3)c2cn1)c1ccccc1	9.1549	9.2200	CHEMBL3903262	confirmed	False	True
+MAPK1	P28482	CCNc1[nH]nc2cc(NC(=O)N[C@H](COC(F)F)c3ccccc3)ncc12	9.1549	9.2200	CHEMBL4111579	confirmed	False	True
+MAPK1	P28482	CCNc1[nH]nc2cc(NC(=O)N[C@H](C)c3ccccc3)nc(CO)c12	9.1549	9.2200	CHEMBL4114637	confirmed	False	True
+MAPK1	P28482	COC(=O)Nc1[nH]nc2cc(NC(=O)N[C@H](COC(F)F)c3ccccc3)ncc12	9.1549	9.2200	CHEMBL4107484	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(NC(=O)Cc3ccccc3)c2cn1)c1ccccc1	9.1549	9.2200	CHEMBL4109852	confirmed	False	True
+MAPK1	P28482	CC(C)C(=O)Nc1[nH]nc2cc(NC(=O)N[C@H](C)c3ccccc3)ncc12	9.1549	9.2200	CHEMBL4114063	confirmed	False	True
+MAPK1	P28482	CCNc1[nH]nc2cc(NC(=O)N[C@@H](c3ccccc3)[C@H]3CCCO3)ncc12	9.1549	6.5000	CHEMBL3914609	activity_mismatch	False	True
+MAPK1	P28482	CC(C)(O)[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCOC(C(F)(F)F)C3)c2cn1)c1ccccc1	9.1549	9.2200	CHEMBL3907091	confirmed	False	True
+MAPK1	P28482	COCCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccccc3)C(C)(C)O)ncc12	9.1549	9.2200	CHEMBL3922668	confirmed	False	True
+MAPK1	P28482	O=C(Nc1cc2[nH]nc(OCCOC(F)F)c2cn1)N[C@H](CO)c1ccccc1	9.1549	9.2200	CHEMBL4114532	confirmed	False	True
+MAPK1	P28482	C[C@@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCOC(F)F)c2cn1)c1ccccc1	9.1549	9.4000	CHEMBL3956572	confirmed	False	True
+MAPK1	P28482	CCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)C(C)(C)O)ncc12	9.1549	9.1500	CHEMBL3954207	confirmed	False	True
+MAPK1	P28482	COCCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)[C@H](C)O)ncc12	9.1549	9.2200	CHEMBL3947239	confirmed	False	True
+MAPK1	P28482	CCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccc(F)cc3)[C@@H](C)O)ncc12	9.1549	9.2200	CHEMBL4114279	confirmed	False	True
+MAPK1	P28482	C[C@H](O)[C@@H](NC(=O)Nc1cc2[nH]nc(OCCO)c2cn1)c1ccccc1	9.1549	9.2200	CHEMBL3953044	confirmed	False	True
+MAPK1	P28482	N#CC[C@@H](NC(=O)N1CCc2cnc(NC3CCOCC3)nc2C1)c1ccc(F)c(Cl)c1	9.1549	9.2200	CHEMBL4106654	confirmed	False	True
+MAPK1	P28482	CCNc1[nH]nc2cc(NC(=O)NC(c3ccc(F)cc3)C(C)(C)OC)ncc12	9.1549	9.2200	CHEMBL3890482	confirmed	False	True
+MAPK1	P28482	O=C(Nc1cc2[nH]nc(OC3CCOCC3)c2cn1)NC1CCCOc2ccccc21	9.1549	9.2200	CHEMBL3948992	confirmed	False	True
+MAPK1	P28482	CCOCCOc1[nH]nc2cc(NC(=O)N[C@@H](c3ccccc3)C3(O)CCC3)nc(CO)c12	9.1549	9.2200	CHEMBL4107216	confirmed	False	True
+MAPK1	P28482	COc1ccc([C@H](NC(=O)c2cc(F)c3cnc(NC4CCOCC4)nc3c2)c2cnn(C)c2)cc1Cl	9.1549	9.2200	CHEMBL3952319	confirmed	False	True
+MAPK1	P28482	Cn1cc([C@@H](NC(=O)c2cc(F)c3cnc(NC4CCOCC4)nc3c2)c2ccc(C#N)c(Cl)c2)cn1	9.1549	9.2200	CHEMBL3976284	confirmed	False	True
+MAPK1	P28482	O=c1cc(-c2ccnc(NC3CCOCC3)n2)ccn1[C@H](CO)c1ccc(Cl)c(F)c1	9.1549	9.4000	CHEMBL3409581	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(-c3cnn(C)c3)c2cn1)c1ccc(F)cc1	9.1540	9.2200	CHEMBL3658664	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NC(CO)c4cc(F)cc(F)c4)ncc23)ccn1	9.1533	9.2200	CHEMBL3658729	confirmed	False	True
+MAPK1	P28482	C[C@@H](NC(=O)Nc1cc2[nH]nc(-c3cn[nH]c3)c2cn1)c1ccc(F)c(Cl)c1	9.1529	9.2200	CHEMBL3654725	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4ccccc4OC(F)(F)F)ncc23)ccn1	9.1517	9.2200	CHEMBL3662978	confirmed	False	True
+MAPK1	P28482	COc1ncccc1CNC(=O)Nc1cc2[nH]nc(-c3ccnc(C)c3)c2cn1	9.1502	9.2200	CHEMBL3662951	confirmed	False	True
+MAPK1	P28482	CCOCCNC(=O)Nc1cc2[nH]nc(-c3ccc(F)cc3)c2cn1	9.1488	9.2100	CHEMBL3663065	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(NC(C)C)c2cn1)c1ccccc1	9.1487	9.2100	CHEMBL4107121	confirmed	False	True
+MAPK1	P28482	CCn1cc(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cc(F)cc(S(C)(=O)=O)c4)c(F)c3)c2)cn1	9.1445	9.2100	CHEMBL4115487	confirmed	False	True
+MAPK1	P28482	COC[C@@H](NC(=O)Nc1cc2[nH]nc(N3CCO[C@H](C)C3)c2cn1)c1ccccc1	9.1367	8.8400	CHEMBL3912792	confirmed	False	True
+MAPK1	P28482	CC1(C)OB(C2=CCOCC2)OC1(C)C	9.1361	9.2000	CHEMBL3942505	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2=CCCCC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.1349	9.0400	CHEMBL4113952	confirmed	False	True
+MAPK1	P28482	Cc1oncc1-c1cnc(N)c(-c2ccc(C(=O)N[C@H](CO)c3ccccc3)c(F)c2)c1	9.1343	9.2000	CHEMBL4109608	confirmed	False	True
+MAPK1	P28482	Nc1ncc(C2CCC(NC(=O)CO)CC2)nc1-c1ccc(C(=O)N[C@H](CO)c2cccc(Cl)c2)c(F)c1	9.1273	9.0300	CHEMBL3908768	confirmed	False	True
+MAPK1	P28482	Nc1ncc([C@H]2CC[C@@H](O)[C@@H](F)C2)nc1-c1ccc(C(=O)N[C@H](CO)c2cc(F)cc(Br)c2)c(F)c1	9.1232	10.2900	CHEMBL3900490	activity_mismatch	False	True
+MAPK1	P28482	Cn1cc(-c2cnc(N)c(-c3ccc(C(=O)N[C@H](CO)c4cccc(Cl)c4)c(F)c3)c2)c(C#N)n1	9.1232	9.1900	CHEMBL4109989	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)NCc4c(F)cccc4F)ncc23)ccn1	9.1222	9.1800	CHEMBL3654703	confirmed	False	True
+MAPK1	P28482	CN1C(=O)C[C@H](CC(F)(F)F)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.1221	9.1800	CHEMBL5774093	confirmed	False	False
+MAPK1	P28482	CN1C(=O)CC(CC(F)(F)F)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.1221	9.1800	CHEMBL5774093	confirmed	False	False
+MAPK1	P28482	CC(=O)Nc1[nH]nc2cc(NC(=O)N[C@H](C)c3ccccc3)ncc12	9.1192	9.1000	CHEMBL3977991	confirmed	False	True
+MAPK1	P28482	Cc1cc(-c2[nH]nc3cc(NC(=O)N[C@H](COC(F)F)c4ccccc4)nc(CO)c23)ccn1	9.1192	9.1800	CHEMBL5785675	confirmed	False	False
+MAPK1	P28482	CN1C(=O)CC(C2CC2)c2nnc3cc(-c4ccnc(Nc5ccnn5C)n4)cc1n23	9.1192	6.9200	CHEMBL5766442	activity_mismatch	False	False
+MAPK10	P53779	NC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCCC3=O)cc2)ncc1Cl	9.5850	9.8000	CHEMBL3220502	confirmed	False	True
+MAPK10	P53779	C=CC(=O)Nc1cccc(C(=O)Nc2ccc(Nc3cc(-c4c(-c5ccc(F)cc5)nc(SC)n4C)ccn3)cc2)c1	9.3979	9.5200	CHEMBL4077018	confirmed	False	False
+MAPK10	P53779	NC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCOCC3)cc2)ncc1Cl	9.3979	9.5200	CHEMBL3220493	confirmed	False	True
+MAPK10	P53779	NC(=O)C1Cc2nc(-c3ccc(Cl)c(Cl)c3)n(-c3ccnc(N[C@H]4CCCN(C(=O)C5CC5)C4)n3)c2C1	9.3197	9.1400	CHEMBL5398642	confirmed	False	False
+MAPK10	P53779	Cc1ccc(NC(=O)/C=C/CN(C)C)cc1C(=O)Nc1ccc(Nc2nccc(-c3cccnc3)n2)cc1	9.2218			not_in_chembl	False	False
+MAPK10	P53779	Cc1ccc(C(=O)Nc2ccc(Nc3nccc(-c4cccnc4)n3)cc2)cc1NC(=O)/C=C/CN(C)C	9.2218			not_in_chembl	False	False
+MAPK10	P53779	CNC(=O)C1Cc2nc(-c3ccc4ccccc4c3)n(-c3ccnc(N[C@H]4CCCN(C(=O)C5CC5)C4)n3)c2C1	9.1778	9.2500	CHEMBL5423620	confirmed	False	False
+MAPK10	P53779	C=CC(=O)Nc1cccc(C(=O)Nc2ccc(Nc3cc(-c4[nH]c(SC)nc4-c4ccc(F)cc4)ccn3)cc2)c1	9.1549	9.2200	CHEMBL4062023	confirmed	False	True
+MAPK10	P53779	CCOC(=O)C1Cc2nc(-c3ccc(Cl)c(Cl)c3)n(-c3ccnc(N[C@@H]4CCCN(C(=O)C5CC5)C4)n3)c2C1	9.1506	9.2200	CHEMBL5411160	confirmed	False	False
+MAPK10	P53779	CCOC(=O)C1Cc2nc(-c3ccc4ccccc4c3)n(-c3ccnc(N[C@H]4CCCN(C(=O)C5CC5)C4)n3)c2C1	9.0883	9.1100	CHEMBL5401511	confirmed	False	False
+MAPK10	P53779	NC(=O)C1Cc2nc(-c3ccc(Cl)c(Cl)c3)n(-c3ccnc(N[C@@H]4CCCN(C(=O)C5CC5)C4)n3)c2C1	9.0809	9.1400	CHEMBL5398642	confirmed	False	False
+MAPK10	P53779	CN(C)C/C=C/C(=O)Nc1cccc(C(=O)Nc2ccc(Nc3nccc(-c4cccnc4)n3)cc2)c1	9.0706	9.1200	CHEMBL3393607	confirmed	False	True
+MAPK10	P53779	CCOC(=O)C1Cc2nc(-c3ccc4ccccc4c3)n(-c3ccnc(N[C@@H]4CCCN(C(=O)C5CC5)C4)n3)c2C1	9.0560	9.1100	CHEMBL5401511	confirmed	False	False
+MAPK10	P53779	COc1cc(N2CCOCC2)ccc1Nc1ncc(Cl)c(Nc2ccccc2C(N)=O)n1	9.0458	9.1000	CHEMBL3220495	confirmed	False	True
+MAPK10	P53779	C=CC(=O)Nc1cccc(C(=O)Nc2ccc(Nc3nccc(-c4cccnc4)n3)cc2)c1	8.9747			not_in_chembl	False	False
+MAPK10	P53779	[2H]C([2H])([2H])N1CC[C@H](NC(=O)c2cc(-n3ncc4cc(Nc5ccccc5Cl)ccc43)cs2)C1	8.9586	9.0000	CHEMBL4875508	confirmed	False	True
+MAPK10	P53779	N#CCc1cnc(-c2ccc3ccccc3c2)n1-c1ccnc(N[C@H]2CCCN(C(=O)C3CC3)C2)n1	8.9586	8.3000	CHEMBL5394033	close	False	False
+MAPK10	P53779	O=c1o[nH]c(-c2ccnc(Nc3ccc(N4CCOCC4)cc3)c2)c1-c1ccc(F)cc1	8.9586			not_in_chembl	False	False
+MAPK10	P53779	O=C(NC1CC1)c1cc(-n2ncc3cc(Nc4ccccc4Cl)c(F)cc32)cs1	8.9586	9.0000	CHEMBL4861739	confirmed	False	True
+MAPK10	P53779	O=C(Nc1cnn(-c2cccc(C(=O)Nc3cnn(C4CCNC4)c3)c2)c1)Nc1ccccc1Cl	8.9586	9.0000	CHEMBL3355178	confirmed	False	False
+MAPK10	P53779	Cc1cc(NC(=O)c2cccc(NC(=O)/C=C/CN(C)C)c2)ccc1Nc1nccc(-c2cccnc2)n1	8.9586	9.0000	CHEMBL2216824	confirmed	False	True
+MAPK10	P53779	CCOC(=O)C1Cc2nc(-c3ccc(Cl)c(Cl)c3)n(-c3ccnc(N[C@H]4CCCN(C(=O)C5CC5)C4)n3)c2C1	8.9208	9.2200	CHEMBL5411160	confirmed	False	False
+MAPK10	P53779	CNC(=O)C1Cc2nc(-c3ccc4ccccc4c3)n(-c3ccnc(N[C@@H]4CCCN(C(=O)C5CC5)C4)n3)c2C1	8.9208	9.2500	CHEMBL5423620	confirmed	False	False
+MAPK10	P53779	CCn1c(-c2ccccc2-c2ccc(C)cc2C)nc2cc(C(=O)NC)ccc21	8.8861	8.9200	CHEMBL4633869	confirmed	False	False
+MAPK10	P53779	CCOC(=O)C1Cc2nc(-c3ccc4c(c3)OCO4)n(-c3ccnc(N[C@@H]4CCCN(C(=O)C5CC5)C4)n3)c2C1	8.8861	7.9800	CHEMBL5413870	close	False	False
+MAPK10	P53779	CNC(=O)C1Cc2nc(-c3ccc(Cl)c(Cl)c3)n(-c3ccnc(N[C@H]4CCCN(C(=O)C5CC5)C4)n3)c2C1	8.8861	8.9200	CHEMBL5408675	confirmed	False	False
+MAPK10	P53779	O=C(NC1CCNCC1)c1cccc(-c2[nH]nc3cc(Nc4ccccc4Cl)ccc23)c1	8.8447	8.8500	CHEMBL194806	confirmed	False	True
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)c2ccc3cc(C(=O)N4CC(NC(=O)C(C)NC)C(=O)N(Cc5c(OC)ccc6cc(Br)ccc56)c5ccccc54)ccc3c2)c2ccccc2N(Cc2c(OC)ccc3cc(Br)ccc23)C1=O	9.8210	10.2924	CHEMBL3890913	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC(Cc1ccc(OCc2ccc(C(=O)NC3CC(C(=O)NC4CCCc5ccccc54)N(C(=O)C(NC(=O)C(C)NC)C(C)(C)C)C3)cc2)cc1)C(=O)N1CCCC1C(=O)N[C@@H]1CCCc2ccccc21	9.7959	10.2200	CHEMBL3913296	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC(Cc1ccc(OCc2ccc(C(=O)NC3CC(C(=O)NC4CCCc5ccccc54)N(C(=O)C(NC(=O)C(C)NC)C(C)(C)C)C3)cc2)cc1)C(=O)N1CC=CCC1C(=O)N[C@@H]1CCCc2ccccc21	9.7959	9.6600	CHEMBL3918792	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC(Cc1ccc(OCc2ccc(C(=O)N[C@H]3CC(C(=O)NC4CCCc5ccccc54)N(C(=O)C(NC(=O)C(C)NC)C(C)(C)C)C3)cc2)cc1)C(=O)C1CC=CCC1C(=O)NC1CCCc2ccccc21	9.7959	10.2200	CHEMBL3940255	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC(Cc1ccc(OCc2ccc(C(=O)NC3CC(C(=O)NC4CCCc5ccccc54)N(C(=O)C(NC(=O)C(C)NC)C(C)(C)C)C3)cc2)cc1)C(=O)N1CCCCC1C(=O)N[C@@H]1CCCc2ccccc21	9.7447	10.1000	CHEMBL3950036	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC(Cc1ccc(OCc2ccc(C(=O)N[C@H]3CC(C(=O)N[C@@H]4CCCc5ccccc54)N(C(=O)C(NC(=O)C(C)NC)C(C)(C)C)C3)cc2)cc1)C(=O)C1CC=CCC1C(=O)NC1CCCc2ccccc21	9.6383	9.1400	CHEMBL3940255	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC(C(=O)N1C[C@@H](NC(=O)c2ccc(COc3ccc(CN(NC(=O)C(C)NC)C(=O)C4CCCC4C(=O)NC4CCCc5ccccc54)cc3)cc2)CC1C(=O)N[C@@H]1CCCc2ccccc21)C(C)(C)C	9.6021	10.1000	CHEMBL3903824	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC(Cc1ccc(OCc2ccc(C(=O)N[C@H]3CC(C(=O)N[C@@H]4CCCc5ccccc54)N(C(=O)C(NC(=O)C(C)NC)C(C)(C)C)C3)cc2)cc1)C(=O)C1CCCCC1C(=O)NC1CCCc2ccccc21	9.5935	9.6000	CHEMBL3929256	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC(C(=O)N1C[C@@H](NC(=O)c2ccc(COc3ccc(CN(NC(=O)C(C)NC)C(=O)C4CCCCC4C(=O)NC4CCCc5ccccc54)cc3)cc2)CC1C(=O)N[C@@H]1CCCc2ccccc21)C(C)(C)C	9.5686	10.1500	CHEMBL3930765	close	False	False
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)c2ccc(C(=O)N3CC(NC(=O)C(C)NC)C(=O)N(Cc4c(OC)ccc5cc(Br)ccc45)c4ccccc43)cc2)c2ccccc2N(Cc2c(OC)ccc3cc(Br)ccc23)C1=O	9.4101	9.5400	CHEMBL3923531	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)CCCCCC(=O)N2CC(NC(=O)C(C)NC)C(=O)N(Cc3c(OC)ccc4cc(Br)ccc34)c3ccccc32)c2ccccc2N(Cc2c(OC)ccc3cc(Br)ccc23)C1=O	9.3904	9.5100	CHEMBL3951348	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC(C(=O)N1c2ncccc2C[C@H]1CNc1ccccc1)C(C)C	9.3904		CHEMBL3957190	no_activity_for_target	False	False
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)c2ccc(C(=O)N3CC(NC(=O)C(C)NC)C(=O)N(Cc4c(OC)ccc5c(Br)cccc45)c4ccccc43)cc2)c2ccccc2N(Cc2c(OC)ccc3c(Br)cccc23)C1=O	9.3768	9.4900	CHEMBL3918981	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)c2cnc(C(=O)N3CC(NC(=O)C(C)NC)C(=O)N(Cc4c(OC)ccc5cc(Br)ccc45)c4ccccc43)cn2)c2ccccc2N(Cc2c(OC)ccc3cc(Br)ccc23)C1=O	9.3716	9.4900	CHEMBL3929056	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)CCCCC(=O)N2CC(NC(=O)C(C)NC)C(=O)N(Cc3c(OC)ccc4cc(Br)ccc34)c3ccccc32)c2ccccc2N(Cc2c(OC)ccc3cc(Br)ccc23)C1=O	9.3233	9.4300	CHEMBL3970986	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)c2ccc(C(=O)N3CC(NC(=O)C(C)NC)C(=O)N(Cc4c(C)ccc5ccccc45)c4ccccc43)cc2)c2ccccc2N(Cc2c(C)ccc3ccccc23)C1=O	9.2765	9.3700	CHEMBL3945912	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)c2ccc(C(=O)N3CC(NC(=O)C(C)NC)C(=O)N(Cc4c(OC)ccc5ccccc45)c4ccccc43)cc2)c2ccccc2N(Cc2c(OC)ccc3ccccc23)C1=O	9.2581	9.3500	CHEMBL3965515	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC(C(=O)N1c2ncccc2C[C@H]1CNc1ccc2ccccc2c1)C(C)C	9.2175		CHEMBL3957174	no_activity_for_target	False	False
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)c2cc(C)c(C(=O)N3CC(NC(=O)C(C)N)C(=O)N(Cc4c(OC)ccc5cc(Br)ccc45)c4ccccc43)cc2C)c2ccccc2N(Cc2c(OC)ccc3cc(Br)ccc23)C1=O	9.0453	9.1000	CHEMBL3897745	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)c2ccc(C(=O)N3CC(NC(=O)C(C)NC)C(=O)N(Cc4c(C)ccc5ccccc45)c4ccc(C#N)cc43)cc2)c2cc(C#N)ccc2N(Cc2c(C)ccc3ccccc23)C1=O	9.0386	9.0900	CHEMBL3956590	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC(C(=O)N1c2ncccc2C[C@H]1CNS(=O)(=O)c1ccccc1)C(C)C	9.0362		CHEMBL3936838	no_activity_for_target	False	False
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)c2cccc(C(=O)N3CC(NC(=O)C(C)NC)C(=O)N(Cc4c(OC)ccc5cc(Br)ccc45)c4ccccc43)n2)c2ccccc2N(Cc2c(OC)ccc3cc(Br)ccc23)C1=O	9.0132	9.0600	CHEMBL3914612	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)CCCCCCC(=O)N2CC(NC(=O)C(C)NC)C(=O)N(Cc3c(OC)ccc4cc(Br)ccc34)c3ccccc32)c2ccccc2N(Cc2c(OC)ccc3cc(Br)ccc23)C1=O	9.0126	9.0600	CHEMBL3942623	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)NC(C(=O)N1c2ncccc2C[C@H]1CNC(=O)c1ccccc1)C(C)C	9.0052		CHEMBL3973999	no_activity_for_target	False	False
+XIAP	P98170	CNC(C)C(=O)NC1CN(C(=O)c2cccc(C(=O)N3CC(NC(=O)C(C)NC)C(=O)N(Cc4c(OC)ccc5cc(Br)ccc45)c4ccccc43)c2)c2ccccc2N(Cc2c(OC)ccc3cc(Br)ccc23)C1=O	9.0002	9.0500	CHEMBL3900592	confirmed	False	False
+XIAP	P98170	CCC(NC)C(=O)NC1CN(C(=O)c2ccc(C(C)=O)cc2)c2ccccc2N(Cc2c(OC)ccc3cc(Br)ccc23)C1=O	8.9586	9.0000	CHEMBL5883598	confirmed	False	False
+XIAP	P98170	CNC(C)C(=O)Nc1cc(-c2nc(OC)nc3c(C)nn(C)c23)cc(NC(=O)c2ccc(Cl)cn2)n1	8.9586	9.0000	CHEMBL3929227	confirmed	False	True
